@@ -1,0 +1,5610 @@
+[
+    {
+        "country": "United States", 
+        "episode_count": "15762", 
+        "episode_minutes": "60, 30, 15", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Guiding Light", 
+        "seasons": "57", 
+        "started_broadcasting": "1952-06-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "13858", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "As the World Turns", 
+        "seasons": "54", 
+        "started_broadcasting": "1956-04-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "12599", 
+        "episode_minutes": "60, 45, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "General Hospital", 
+        "seasons": "", 
+        "started_broadcasting": "1963-04-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "11679", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Days of our Lives", 
+        "seasons": "", 
+        "started_broadcasting": "1965-11-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "11096", 
+        "episode_minutes": "60, 45, 30", 
+        "finished_broadcasting": "2012-01-13", 
+        "genre": "Soap opera", 
+        "name": "One Life to Live", 
+        "seasons": "43", 
+        "started_broadcasting": "1968-07-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "10712", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "2011-09-23", 
+        "genre": "Soap opera", 
+        "name": "All My Children", 
+        "seasons": "", 
+        "started_broadcasting": "1970-01-05"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "09640", 
+        "episode_minutes": "150", 
+        "finished_broadcasting": "", 
+        "genre": "Variety Show", 
+        "name": "Eat Bulaga!", 
+        "seasons": "", 
+        "started_broadcasting": "1979-07-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "09730", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "The Young and the Restless", 
+        "seasons": "", 
+        "started_broadcasting": "1973-03-26"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "09155", 
+        "episode_minutes": "40\uff64 55\uff64 35", 
+        "finished_broadcasting": "", 
+        "genre": "Talk Show", 
+        "name": "Tetsuko Kuroyanagi's Talking Room(\u5fb9\u5b50\u306e\u90e8\u5c4b)", 
+        "seasons": "", 
+        "started_broadcasting": "1976-02-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "09130", 
+        "episode_minutes": "30, 15", 
+        "finished_broadcasting": "1986-12-26", 
+        "genre": "Soap opera", 
+        "name": "Search for Tomorrow", 
+        "seasons": "", 
+        "started_broadcasting": "1951-09-03"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "09000", 
+        "episode_minutes": "90, 60", 
+        "finished_broadcasting": "", 
+        "genre": "Daily Talk", 
+        "name": "100 Huntley Street", 
+        "seasons": "", 
+        "started_broadcasting": "1977-06-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "08891", 
+        "episode_minutes": "90, 60, 30", 
+        "finished_broadcasting": "1999-06-25", 
+        "genre": "Soap opera", 
+        "name": "Another World", 
+        "seasons": "", 
+        "started_broadcasting": "1964-05-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "08711", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Jeopardy!", 
+        "seasons": "", 
+        "started_broadcasting": "1964-03-30"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "07506", 
+        "episode_minutes": "58", 
+        "finished_broadcasting": "", 
+        "genre": "Variety show, Talk show", 
+        "name": "Waratte Iitomo!(\u7b11\u3063\u3066\u3044\u3044\u3068\u3082!)", 
+        "seasons": "", 
+        "started_broadcasting": "1982-10-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "07241", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Coronation Street", 
+        "seasons": "50", 
+        "started_broadcasting": "1960-12-09"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "07420", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1984-12-28", 
+        "genre": "Soap opera", 
+        "name": "The Edge of Night", 
+        "seasons": "", 
+        "started_broadcasting": "1956-04-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "07500", 
+        "episode_minutes": "15, 30, 25", 
+        "finished_broadcasting": "1980-02-01", 
+        "genre": "Soap opera", 
+        "name": "Love of Life", 
+        "seasons": "", 
+        "started_broadcasting": "1951-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "07279", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "The Price Is Right", 
+        "seasons": "38", 
+        "started_broadcasting": "1972-09-04"
+    }, 
+    {
+        "country": "Italy", 
+        "episode_count": "07261", 
+        "episode_minutes": "10", 
+        "finished_broadcasting": "1977-01-01", 
+        "genre": "Entertainment", 
+        "name": "Carosello", 
+        "seasons": "", 
+        "started_broadcasting": "1957-01-03"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "06345", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Sazae-san", 
+        "seasons": "", 
+        "started_broadcasting": "1969-10-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "06120", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Talk Show", 
+        "name": "Larry King Live", 
+        "seasons": "", 
+        "started_broadcasting": "1985-06-03"
+    }, 
+    {
+        "country": "China", 
+        "episode_count": "06050", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "Children's", 
+        "name": "Dafengche(\u5927\u98ce\u8f66)", 
+        "seasons": "", 
+        "started_broadcasting": "1995-06-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "06036", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "The Bold and the Beautiful", 
+        "seasons": "", 
+        "started_broadcasting": "1987-03-23"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "05690", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Neighbours", 
+        "seasons": "24", 
+        "started_broadcasting": "1985-03-18"
+    }, 
+    {
+        "country": "Hungary", 
+        "episode_count": "05602", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Bar\u00e1tok k\u00f6zt", 
+        "seasons": "13", 
+        "started_broadcasting": "1998-10-18"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "05300", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Wheel of Fortune", 
+        "seasons": "", 
+        "started_broadcasting": "1983-09-19"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "05280", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1982-12-31", 
+        "genre": "Soap opera", 
+        "name": "The Doctors", 
+        "seasons": "", 
+        "started_broadcasting": "1963-04-01"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "05296", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Emmerdale", 
+        "seasons": "39", 
+        "started_broadcasting": "1972-10-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "05195", 
+        "episode_minutes": "30, 15", 
+        "finished_broadcasting": "1974-02-08", 
+        "genre": "Soap opera", 
+        "name": "The Secret Storm", 
+        "seasons": "", 
+        "started_broadcasting": "1954-02-01"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "05170", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1985-06-14", 
+        "genre": "Children", 
+        "name": "Bobino", 
+        "seasons": "28", 
+        "started_broadcasting": "1957-05-23"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "05170", 
+        "episode_minutes": "35", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Le Juste Prix", 
+        "seasons": "-", 
+        "started_broadcasting": "1987-12-13"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "05093", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2000-07-28", 
+        "genre": "Game show", 
+        "name": "Wheel of Fortune", 
+        "seasons": "25", 
+        "started_broadcasting": "1981-07-21"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "05000", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Home and Away", 
+        "seasons": "22", 
+        "started_broadcasting": "1988-01-17"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "05051", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Gute Zeiten, schlechte Zeiten", 
+        "seasons": "", 
+        "started_broadcasting": "1992-05-11"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "04828", 
+        "episode_minutes": "24, 36", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Countdown", 
+        "seasons": "60", 
+        "started_broadcasting": "1982-11-02"
+    }, 
+    {
+        "country": "Italy", 
+        "episode_count": "04579", 
+        "episode_minutes": "35", 
+        "finished_broadcasting": "", 
+        "genre": "Entertraintment", 
+        "name": "Striscia la notizia", 
+        "seasons": "21", 
+        "started_broadcasting": "1988-11-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "04561", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2011-05-25", 
+        "genre": "Talk show", 
+        "name": "The Oprah Winfrey Show", 
+        "seasons": "25", 
+        "started_broadcasting": "1986-09-08"
+    }, 
+    {
+        "country": "New Zealand", 
+        "episode_count": "04535", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Shortland Street", 
+        "seasons": "", 
+        "started_broadcasting": "1992-05-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "04531", 
+        "episode_minutes": "105, 90, 60", 
+        "finished_broadcasting": "1992-05-22", 
+        "genre": "Talk showVariety show", 
+        "name": "The Tonight Show Starring Johnny Carson", 
+        "seasons": "", 
+        "started_broadcasting": "1962-10-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "04492", 
+        "episode_minutes": "22, 26", 
+        "finished_broadcasting": "2004-09-10", 
+        "genre": "Game show", 
+        "name": "Pyramid", 
+        "seasons": "", 
+        "started_broadcasting": "1973-03-26"
+    }, 
+    {
+        "country": "South Africa", 
+        "episode_count": "04469", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Egoli: Place of Gold", 
+        "seasons": "18", 
+        "started_broadcasting": "1992-04-06"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "04464", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Children's", 
+        "name": "Blue Peter", 
+        "seasons": "", 
+        "started_broadcasting": "1958-10-16"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "04406", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Unter Uns", 
+        "seasons": "", 
+        "started_broadcasting": "1994-11-28"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "04292", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1988-04-04", 
+        "genre": "Soap opera", 
+        "name": "Crossroads- Original series", 
+        "seasons": "", 
+        "started_broadcasting": "1964-11-02"
+    }, 
+    {
+        "country": "Belgium", 
+        "episode_count": "04318", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Familie", 
+        "seasons": "", 
+        "started_broadcasting": "1991-12-30"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "04292", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2003-05-30", 
+        "genre": "Soap opera", 
+        "name": "Crossroads- Revived series", 
+        "seasons": "", 
+        "started_broadcasting": "2001-03-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "04256", 
+        "episode_minutes": "54", 
+        "finished_broadcasting": "", 
+        "genre": "Children's", 
+        "name": "Sesame Street", 
+        "seasons": "41", 
+        "started_broadcasting": "1969-11-10"
+    }, 
+    {
+        "country": "The Netherlands", 
+        "episode_count": "04150", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Goede Tijden, Slechte Tijden", 
+        "seasons": "", 
+        "started_broadcasting": "1990-01-011990"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "04120", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Verbotene Liebe", 
+        "seasons": "", 
+        "started_broadcasting": "1995-01-02"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "04052", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Marienhof", 
+        "seasons": "", 
+        "started_broadcasting": "1992-10-01"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "03914", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "EastEnders", 
+        "seasons": "25", 
+        "started_broadcasting": "1985-02-19"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03775", 
+        "episode_minutes": "62", 
+        "finished_broadcasting": "2009-05-29", 
+        "genre": "Talk showVariety show", 
+        "name": "The Tonight Show with Jay Leno  original run", 
+        "seasons": "", 
+        "started_broadcasting": "1992-05-25"
+    }, 
+    {
+        "country": "Denmark", 
+        "episode_count": "03559", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2001-01-012001", 
+        "genre": "Game show", 
+        "name": "Wheel of Fortune", 
+        "seasons": "", 
+        "started_broadcasting": "1988-10-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03515", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1989-01-13", 
+        "genre": "Soap opera", 
+        "name": "Ryan's Hope", 
+        "seasons": "", 
+        "started_broadcasting": "1975-07-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03600", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Tabloid Talk show", 
+        "name": "The Jerry Springer Show", 
+        "seasons": "18", 
+        "started_broadcasting": "1991-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03265", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Entertainment News", 
+        "name": "Access Hollywood", 
+        "seasons": "", 
+        "started_broadcasting": "1996-09-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03169", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1995-11-10", 
+        "genre": "Soap opera", 
+        "name": "Loving", 
+        "seasons": "", 
+        "started_broadcasting": "1983-06-26"
+    }, 
+    {
+        "country": "Brazil", 
+        "episode_count": "03137", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Malha\u00e7\u00e3o", 
+        "seasons": "13", 
+        "started_broadcasting": "1995-04-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "03115", 
+        "episode_minutes": "62 Minutes 30 Seconds", 
+        "finished_broadcasting": "", 
+        "genre": "Talk ShowVariety Show", 
+        "name": "Late Show with David Letterman", 
+        "seasons": "", 
+        "started_broadcasting": "1993-08-30"
+    }, 
+    {
+        "country": "United StatesCanada", 
+        "episode_count": "03000", 
+        "episode_minutes": "15", 
+        "finished_broadcasting": "1985-03-01", 
+        "genre": "Children's", 
+        "name": "The Friendly Giant", 
+        "seasons": "", 
+        "started_broadcasting": "1953-01-011953"
+    }, 
+    {
+        "country": "Italy", 
+        "episode_count": "02957", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Un posto al sole", 
+        "seasons": "", 
+        "started_broadcasting": "1996-10-21"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02915", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2003-11-02", 
+        "genre": "Soap opera", 
+        "name": "Brookside", 
+        "seasons": "", 
+        "started_broadcasting": "1982-11-02"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02900", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "Music show", 
+        "name": "Nodo Jiman(\u306e\u3069\u81ea\u6162)", 
+        "seasons": "", 
+        "started_broadcasting": "1953-03-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02725", 
+        "episode_minutes": "59", 
+        "finished_broadcasting": "2009-02-20", 
+        "genre": "Talk ShowVariety Show", 
+        "name": "Late Night with Conan O'Brien", 
+        "seasons": "", 
+        "started_broadcasting": "1993-09-13"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02690", 
+        "episode_minutes": "15", 
+        "finished_broadcasting": "", 
+        "genre": "Documentary", 
+        "name": "Imperial Album(\u7687\u5ba4\u30a2\u30eb\u30d0\u30e0)", 
+        "seasons": "", 
+        "started_broadcasting": "1959-10-04"
+    }, 
+    {
+        "country": "South Korea", 
+        "episode_minutes": "5", 
+        "genre": "Animation", 
+        "name": "TV donghwa hangbokhan sesang(tv \ub3d9\ud654 \ud589\ubcf5\ud55c \uc138\uc0c1)", 
+        "seasons": "", 
+        "started_broadcasting": ""
+    }, 
+    {
+        "country": "South Africa", 
+        "episode_count": "02611", 
+        "episode_minutes": "22-26", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Isidingo", 
+        "seasons": "", 
+        "started_broadcasting": "1998-07-07"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02502", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Hollyoaks", 
+        "seasons": "14", 
+        "started_broadcasting": "1995-10-23"
+    }, 
+    {
+        "country": "Ireland", 
+        "episode_count": "02500", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Fair City", 
+        "seasons": "20", 
+        "started_broadcasting": "1989-09-01"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02482", 
+        "episode_minutes": "125335 (The Bigger Breakfast)", 
+        "finished_broadcasting": "2002-03-29", 
+        "genre": "Breakfast Television", 
+        "name": "The Big Breakfast", 
+        "seasons": "", 
+        "started_broadcasting": "1992-09-28"
+    }, 
+    {
+        "country": "Chile,United States", 
+        "episode_count": "02466", 
+        "episode_minutes": "180-480", 
+        "finished_broadcasting": "", 
+        "genre": "Variety show", 
+        "name": "S\u00e1bado Gigante", 
+        "seasons": "", 
+        "started_broadcasting": "1962-08-08"
+    }, 
+    {
+        "country": "Russia", 
+        "episode_count": "02138", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Reality", 
+        "name": "Dom-2", 
+        "seasons": "", 
+        "started_broadcasting": "2004-05-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02404", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Talk show", 
+        "name": "The View", 
+        "seasons": "11", 
+        "started_broadcasting": "1997-08-11"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02394", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Music", 
+        "name": "Music Fair(\u30df\u30e5\u30fc\u30b8\u30c4\u30af\u30d5\u30a8\u30a2)", 
+        "seasons": "", 
+        "started_broadcasting": "1964-08-31"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02338", 
+        "episode_minutes": "22, 46", 
+        "finished_broadcasting": "2010-08-31", 
+        "genre": "Drama", 
+        "name": "The Bill", 
+        "seasons": "24", 
+        "started_broadcasting": "1983-08-16"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02300", 
+        "episode_minutes": "40, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy show", 
+        "name": "Shoten(\u7b11\u70b9)", 
+        "seasons": "", 
+        "started_broadcasting": "1966-05-15"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "02286", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Klan", 
+        "seasons": "15", 
+        "started_broadcasting": "1997-09-22"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02285", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-12-30", 
+        "genre": "Soap opera", 
+        "name": "Family Affairs", 
+        "seasons": "", 
+        "started_broadcasting": "1997-03-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02278", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-07-08", 
+        "genre": "Talk ShowVariety Show", 
+        "name": "The Howard Stern Show", 
+        "seasons": "", 
+        "started_broadcasting": "1994-06-20"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02247", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-11-16", 
+        "genre": "Music video show", 
+        "name": "Total Request Live", 
+        "seasons": "", 
+        "started_broadcasting": "1998-09-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02231", 
+        "episode_minutes": "40", 
+        "finished_broadcasting": "2008-08-07", 
+        "genre": "Soap opera", 
+        "name": "Passions", 
+        "seasons": "10", 
+        "started_broadcasting": "1999-07-05"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02209", 
+        "episode_minutes": "30, 60", 
+        "finished_broadcasting": "2006-07-30", 
+        "genre": "Music Chart", 
+        "name": "Top of the Pops- Weekly", 
+        "seasons": "", 
+        "started_broadcasting": "1964-01-01"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "02209", 
+        "episode_minutes": "30, 60", 
+        "finished_broadcasting": "", 
+        "genre": "Music Chart", 
+        "name": "Top of the Pops- Special", 
+        "seasons": "", 
+        "started_broadcasting": "1964-12-25"
+    }, 
+    {
+        "country": "Belgium", 
+        "episode_count": "02200", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Thuis", 
+        "seasons": "13", 
+        "started_broadcasting": "1995-12-23"
+    }, 
+    {
+        "country": "Venezuela", 
+        "episode_count": "02200", 
+        "episode_minutes": "300", 
+        "finished_broadcasting": "", 
+        "genre": "Varaiety show", 
+        "name": "Super Sabado Sensacional", 
+        "seasons": "", 
+        "started_broadcasting": "1968-01-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02191", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1975-09-01", 
+        "genre": "Game show", 
+        "name": "What's My Line?", 
+        "seasons": "", 
+        "started_broadcasting": "1950-02-02"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02154", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2002-03-30", 
+        "genre": "Drama", 
+        "name": "Bucho\u3000Keiji(\u90e8\u9577\u5211\u4e8b)", 
+        "seasons": "", 
+        "started_broadcasting": "1958-10-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02137", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1993-01-15", 
+        "genre": "Soap opera", 
+        "name": "Santa Barbara", 
+        "seasons": "", 
+        "started_broadcasting": "1984-07-30"
+    }, 
+    {
+        "country": "South Africa", 
+        "episode_count": "02132", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "7de Laan", 
+        "seasons": "", 
+        "started_broadcasting": "2000-01-012000"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "02063", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Talk show, Varety show", 
+        "name": "Welcome to Newly Weds!(\u65b0\u5a5a\u3055\u3093\u3044\u3089\u3064\u3057\u3083\u3044!)", 
+        "seasons": "", 
+        "started_broadcasting": "1971-01-31"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "02055", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Plus belle la vie", 
+        "seasons": "05", 
+        "started_broadcasting": "2004-08-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02054", 
+        "episode_minutes": "120", 
+        "finished_broadcasting": "", 
+        "genre": "Music video", 
+        "name": "106 &amp; Park", 
+        "seasons": "", 
+        "started_broadcasting": "2000-09-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02045", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy", 
+        "name": "The Daily Show", 
+        "seasons": "16", 
+        "started_broadcasting": "1996-07-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "02000", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1994-07-01", 
+        "genre": "Game show", 
+        "name": "Love Connection", 
+        "seasons": "11", 
+        "started_broadcasting": "1983-09-19"
+    }, 
+    {
+        "country": "Norway", 
+        "episode_count": "02000", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Hotel C\u00e6sar", 
+        "seasons": "27", 
+        "started_broadcasting": "1998-10-24"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01930", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-09-25", 
+        "genre": "Game show", 
+        "name": "Tensai Quiz(\u5929\u624d\u30af\u30a4\u30ba)", 
+        "seasons": "", 
+        "started_broadcasting": "1967-07-06"
+    }, 
+    {
+        "country": "Spain", 
+        "episode_count": "01912", 
+        "episode_minutes": "27", 
+        "finished_broadcasting": "2009-12-23", 
+        "genre": "Soap opera", 
+        "name": "El Cor de la Ciutat", 
+        "seasons": "9", 
+        "started_broadcasting": "2000-09-11"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "01830", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "2008-11-06", 
+        "genre": "Soap opera", 
+        "name": "Kyunki Saas Bhi Kabhi Bahu Thi", 
+        "seasons": "", 
+        "started_broadcasting": "2000-07-06"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01829", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "2012-01-27", 
+        "genre": "Soap opera", 
+        "name": "Plebania", 
+        "seasons": "12", 
+        "started_broadcasting": "2000-10-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01819", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1993-06-25", 
+        "genre": "Talk ShowVariety Show", 
+        "name": "Late Night with David Letterman", 
+        "seasons": "", 
+        "started_broadcasting": "1982-02-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01756", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1967-05-22", 
+        "genre": "Game show", 
+        "name": "Password- CBS run", 
+        "seasons": "", 
+        "started_broadcasting": "1961-10-02"
+    }, 
+    {
+        "country": "Portugal", 
+        "episode_count": "01731", 
+        "episode_minutes": "55", 
+        "finished_broadcasting": "", 
+        "genre": "Soap operaTeen drama", 
+        "name": "Morangos com A\u00e7\u00facar", 
+        "seasons": "", 
+        "started_broadcasting": "2003-08-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01710", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1976-12-31", 
+        "genre": "Soap opera", 
+        "name": "Somerset", 
+        "seasons": "", 
+        "started_broadcasting": "1970-03-30"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01701", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Tokusatsu", 
+        "name": "Super Sentai", 
+        "seasons": "34", 
+        "started_broadcasting": "1975-04-05"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "01700", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "2008-10-09", 
+        "genre": "Soap opera", 
+        "name": "Kahaani Ghar Ghar Kii", 
+        "seasons": "", 
+        "started_broadcasting": "2000-10-16"
+    }, 
+    {
+        "country": "Finland", 
+        "episode_count": "01679", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "Drama", 
+        "name": "Salatut el\u00e4m\u00e4t", 
+        "seasons": "", 
+        "started_broadcasting": "1999-01-22"
+    }, 
+    {
+        "country": "Czech Republic", 
+        "episode_count": "01700", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Ulice", 
+        "seasons": "", 
+        "started_broadcasting": "2005-09-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01633", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2003-10-03", 
+        "genre": "Soap opera", 
+        "name": "Port Charles", 
+        "seasons": "", 
+        "started_broadcasting": "1997-06-02"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01602", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Na Wsp\u00f3lnej", 
+        "seasons": "08", 
+        "started_broadcasting": "2003-01-23"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "01601", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Doctors", 
+        "seasons": "10", 
+        "started_broadcasting": "2000-01-012000"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01562", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1977-12-01", 
+        "genre": "Soap opera", 
+        "name": "Bellbird", 
+        "seasons": "", 
+        "started_broadcasting": "1967-08-28"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01557", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "2010-11-30", 
+        "genre": "Soap opera", 
+        "name": "Samo \u017bycie", 
+        "seasons": "09", 
+        "started_broadcasting": "2002-02-12"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01502", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Pierwsza mi\u0142o\u015b\u0107", 
+        "seasons": "08", 
+        "started_broadcasting": "2004-11-04"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "01496", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2010-12-16", 
+        "genre": "Teleroman", 
+        "name": "Virginie", 
+        "seasons": "13", 
+        "started_broadcasting": "1996-09-16"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01457", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1973-09-30", 
+        "genre": "Anime", 
+        "name": "Doraemon- First run", 
+        "seasons": "", 
+        "started_broadcasting": "1973-04-01"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01457", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2005-03-25", 
+        "genre": "Anime", 
+        "name": "Doraemon- Second run", 
+        "seasons": "", 
+        "started_broadcasting": "1979-04-02"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01457", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Doraemon- Current run", 
+        "seasons": "", 
+        "started_broadcasting": "2005-04-15"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "01450", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2009-03-13", 
+        "genre": "Drama", 
+        "name": "Kumkum - Pyara Sa Bandhan", 
+        "seasons": "", 
+        "started_broadcasting": "2002-07-15"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01428", 
+        "episode_minutes": "5", 
+        "finished_broadcasting": "1982-03-31", 
+        "genre": "Anime", 
+        "name": "Hoka Hoka Kazoku", 
+        "seasons": "", 
+        "started_broadcasting": "1976-10-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01415", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1973-03-23", 
+        "genre": "Soap opera", 
+        "name": "Love is a Many Splendored Thing", 
+        "seasons": "", 
+        "started_broadcasting": "1967-09-18"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "01400", 
+        "episode_minutes": "26", 
+        "finished_broadcasting": "2008-02-28", 
+        "genre": "Drama", 
+        "name": "Kasautii Zindagii Kay", 
+        "seasons": "", 
+        "started_broadcasting": "2001-10-29"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01396", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1983-03-31", 
+        "genre": "Soap opera", 
+        "name": "The Young Doctors", 
+        "seasons": "", 
+        "started_broadcasting": "1976-11-08"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01338", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Nintama Rantar\u014d", 
+        "seasons": "17", 
+        "started_broadcasting": "1993-01-011993"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01270", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1987-03-20", 
+        "genre": "Soap opera", 
+        "name": "Capitol", 
+        "seasons": "", 
+        "started_broadcasting": "1982-03-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01225", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1971-04-02", 
+        "genre": "Soap opera", 
+        "name": "Dark Shadows", 
+        "seasons": "", 
+        "started_broadcasting": "1966-06-27"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "01225", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-02-21", 
+        "genre": "Teen drama", 
+        "name": "Watatatow", 
+        "seasons": "13", 
+        "started_broadcasting": "1991-09-17"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01218", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1977-08-11", 
+        "genre": "Soap opera", 
+        "name": "Number 96", 
+        "seasons": "", 
+        "started_broadcasting": "1972-03-13"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "01221", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Lindenstra\u00dfe", 
+        "seasons": "", 
+        "started_broadcasting": "1985-12-08"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "01209", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Mara Clara", 
+        "seasons": "-", 
+        "started_broadcasting": "1992-06-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01193", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2002-06-27", 
+        "genre": "Talk show", 
+        "name": "The Rosie O'Donnell Show", 
+        "seasons": "", 
+        "started_broadcasting": "1996-06-10"
+    }, 
+    {
+        "country": "Sri Lanka", 
+        "episode_count": "01146", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Kopi Kade", 
+        "seasons": "", 
+        "started_broadcasting": "1987-04-01"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01130", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Drama", 
+        "name": "Mito K\u014dmon", 
+        "seasons": "37", 
+        "started_broadcasting": "1969-08-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "01129", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-08-22", 
+        "genre": "Chat show", 
+        "name": "Richard &amp; Judy", 
+        "seasons": "", 
+        "started_broadcasting": "2001-11-26"
+    }, 
+    {
+        "country": "Hong Kong", 
+        "episode_count": "01128", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "1999-11-13", 
+        "genre": "Soap opera", 
+        "name": "A Kindred Spirit", 
+        "seasons": "", 
+        "started_broadcasting": "1995-05-15"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01121", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "2010-12-23", 
+        "genre": "Soap opera", 
+        "name": "Z\u0142otopolscy", 
+        "seasons": "14", 
+        "started_broadcasting": "1998-01-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01117", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2006-03-25", 
+        "genre": "Music Performance", 
+        "name": "Soul Train", 
+        "seasons": "35", 
+        "started_broadcasting": "1971-10-02"
+    }, 
+    {
+        "country": "Argentina", 
+        "episode_count": "01166", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2001-06-30", 
+        "genre": "Telenovela", 
+        "name": "Chiquititas", 
+        "seasons": "8", 
+        "started_broadcasting": "1995-08-07"
+    }, 
+    {
+        "country": "Argentina", 
+        "episode_count": "01166", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2006-12-08", 
+        "genre": "Telenovela", 
+        "name": "Chiquititas 2006", 
+        "seasons": "8", 
+        "started_broadcasting": "2006-04-06"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "01144", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "Docu-crime", 
+        "name": "W11 - Wydzia\u0142 \u015aledczy", 
+        "seasons": "14", 
+        "started_broadcasting": "2004-09-06"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01114", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1983-01-011983", 
+        "genre": "Soap opera", 
+        "name": "The Sullivans", 
+        "seasons": "", 
+        "started_broadcasting": "1976-01-011976"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01110", 
+        "episode_minutes": "15,30", 
+        "finished_broadcasting": "1955-02-26", 
+        "genre": "Science fiction", 
+        "name": "Space Patrol", 
+        "seasons": "5", 
+        "started_broadcasting": "1950-03-09"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01099", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1975-06-27", 
+        "genre": "Game show", 
+        "name": "Password- ABC run", 
+        "seasons": "", 
+        "started_broadcasting": "1971-04-05"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "01080", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Soreike! Anpanman", 
+        "seasons": "", 
+        "started_broadcasting": "1988-10-03"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01058", 
+        "episode_minutes": "48", 
+        "finished_broadcasting": "1993-01-011993", 
+        "genre": "Soap opera", 
+        "name": "A Country Practice", 
+        "seasons": "", 
+        "started_broadcasting": "1981-01-011981"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "01043", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Deal or No Deal", 
+        "seasons": "", 
+        "started_broadcasting": "2003-05-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "01039", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Game Show", 
+        "name": "Deal or No Deal", 
+        "seasons": "04", 
+        "started_broadcasting": "2005-10-31"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01010", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Talk show", 
+        "name": "The Ellen DeGeneres Show", 
+        "seasons": "", 
+        "started_broadcasting": "2003-09-08"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "01001", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-11-30", 
+        "genre": "Drama", 
+        "name": "Kkusum", 
+        "seasons": "05", 
+        "started_broadcasting": "2001-05-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01000", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Game showReality show", 
+        "name": "Who Wants to Be a Millionaire - Syndicated", 
+        "seasons": "", 
+        "started_broadcasting": "2002-09-16"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "01000", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": " ", 
+        "name": "Lo que Callamos las Mujeres", 
+        "seasons": "", 
+        "started_broadcasting": "2000-01-01"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "01000", 
+        "episode_minutes": "35-100, usually 60", 
+        "finished_broadcasting": "", 
+        "genre": "Reality show", 
+        "name": "Big Brother", 
+        "seasons": "21", 
+        "started_broadcasting": "2000-07-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01000", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-05-27", 
+        "genre": "Game show", 
+        "name": "Shop 'til You Drop", 
+        "seasons": "09", 
+        "started_broadcasting": "1991-07-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01000", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2003-05-23", 
+        "genre": "Game show", 
+        "name": "Supermarket Sweep", 
+        "seasons": "10", 
+        "started_broadcasting": "1965-12-20"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "01002", 
+        "episode_minutes": "60, 120, 125, 180", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional wrestling", 
+        "name": "WWE Raw", 
+        "seasons": "19", 
+        "started_broadcasting": "1993-01-11"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00972", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1987-01-011987", 
+        "genre": "Soap opera", 
+        "name": "Sons and Daughters", 
+        "seasons": "", 
+        "started_broadcasting": "1981-01-011981"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00971", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Documentary", 
+        "name": "COPS", 
+        "seasons": "24", 
+        "started_broadcasting": "1989-03-11"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00967", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Tokusatsu", 
+        "name": "Kamen Rider", 
+        "seasons": "21", 
+        "started_broadcasting": "1971-04-03"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00934", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Docu-crime", 
+        "name": "Detektywi", 
+        "seasons": "10", 
+        "started_broadcasting": "2005-11-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00930", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "ComedySatireNews parody", 
+        "name": "The Colbert Report", 
+        "seasons": "05", 
+        "started_broadcasting": "2005-10-17"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00913", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "M jak mi\u0142o\u015b\u0107", 
+        "seasons": "12", 
+        "started_broadcasting": "2000-11-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00879", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1984-03-29", 
+        "genre": "Legal Drama", 
+        "name": "Crown Court", 
+        "seasons": "11", 
+        "started_broadcasting": "1972-10-11"
+    }, 
+    {
+        "country": "Croatia", 
+        "episode_count": "00805", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2008-11-03", 
+        "genre": "Soap opera", 
+        "name": "Zabranjena Ljubav", 
+        "seasons": "", 
+        "started_broadcasting": "2005-10-25"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00799", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2007-02-15", 
+        "genre": "Drama", 
+        "name": "Kahiin To Hoga", 
+        "seasons": "", 
+        "started_broadcasting": "2003-09-08"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00753", 
+        "episode_minutes": "25, 45", 
+        "finished_broadcasting": "1989-12-06", 
+        "genre": "Science fiction drama", 
+        "name": "Doctor Who- Original series", 
+        "seasons": "30", 
+        "started_broadcasting": "1963-11-23"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00753", 
+        "episode_minutes": "45, 60", 
+        "finished_broadcasting": "", 
+        "genre": "Science fiction drama", 
+        "name": "Doctor Who- Revived series", 
+        "seasons": "30", 
+        "started_broadcasting": "2005-03-26"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00793", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Chibi Maruko-chan TV 2", 
+        "seasons": "", 
+        "started_broadcasting": "1995-01-08"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00780", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2007-01-012007", 
+        "genre": "Soap opera", 
+        "name": "Mujer, Casos de la Vida Real", 
+        "seasons": "", 
+        "started_broadcasting": "1985-05-11"
+    }, 
+    {
+        "country": "Spain", 
+        "episode_count": "00773", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2009-08-16", 
+        "genre": "Telenovela", 
+        "name": "Yo soy Bea", 
+        "seasons": "", 
+        "started_broadcasting": "2006-07-10"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00755", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1999-12-31", 
+        "genre": "Soap opera", 
+        "name": "Sunset Beach", 
+        "seasons": "", 
+        "started_broadcasting": "1997-01-06"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00750", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Barwy szcz\u0119\u015bcia", 
+        "seasons": "05", 
+        "started_broadcasting": "2007-09-27"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00745", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "2009-03-12", 
+        "genre": "Drama", 
+        "name": "Kasamh Se", 
+        "seasons": "", 
+        "started_broadcasting": "2006-01-16"
+    }, 
+    {
+        "country": "Sweden", 
+        "episode_count": "00720", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2000-01-012000", 
+        "genre": "Soap opera", 
+        "name": "V\u00e4nner och fiender", 
+        "seasons": "", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00716", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Police Thriller", 
+        "name": "C.I.D.", 
+        "seasons": "14", 
+        "started_broadcasting": "1997-01-21"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00746", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Pok\u00e9mon", 
+        "seasons": "16", 
+        "started_broadcasting": "1997-04-01"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00715", 
+        "episode_minutes": "715", 
+        "finished_broadcasting": "2004-09-23", 
+        "genre": "Soap operaThriller", 
+        "name": "Kaahin Kissii Roz", 
+        "seasons": "", 
+        "started_broadcasting": "2001-04-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00703", 
+        "episode_minutes": "90", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy", 
+        "name": "Saturday Night Live", 
+        "seasons": "37", 
+        "started_broadcasting": "1975-10-11"
+    }, 
+    {
+        "country": "Greece", 
+        "episode_count": "00700", 
+        "episode_minutes": "42", 
+        "finished_broadcasting": "2008-05-30", 
+        "genre": "Soap operaDrama", 
+        "name": "Erotas", 
+        "seasons": "03", 
+        "started_broadcasting": "2005-09-08"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "00700", 
+        "episode_minutes": "7", 
+        "finished_broadcasting": "2003-12-01", 
+        "genre": "Sitcom", 
+        "name": "Cam\u00e9ra Caf\u00e9", 
+        "seasons": "", 
+        "started_broadcasting": "2001-09-01"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00700", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-05-31", 
+        "genre": "Drama", 
+        "name": "Kesar", 
+        "seasons": "", 
+        "started_broadcasting": "2004-04-19"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00692", 
+        "episode_minutes": "50", 
+        "finished_broadcasting": "1986-01-011986", 
+        "genre": "Soap opera", 
+        "name": "Prisoner", 
+        "seasons": "", 
+        "started_broadcasting": "1979-01-011979"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00688", 
+        "episode_minutes": "50", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Casualty", 
+        "seasons": "23", 
+        "started_broadcasting": "1986-09-06"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00688", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-01-012004", 
+        "genre": "Drama", 
+        "name": "Shagun", 
+        "seasons": "", 
+        "started_broadcasting": "2001-01-012001"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00685", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Crayon Shin-chan", 
+        "seasons": "", 
+        "started_broadcasting": "1992-04-13"
+    }, 
+    {
+        "country": "Argentina", 
+        "episode_count": "00679", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2000-11-17", 
+        "genre": "Telenovela", 
+        "name": "Verano del '98", 
+        "seasons": "03", 
+        "started_broadcasting": "1998-01-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00669", 
+        "episode_minutes": "59", 
+        "finished_broadcasting": "", 
+        "genre": "Talk showVariety show", 
+        "name": "Late Night with Jimmy Fallon", 
+        "seasons": "04", 
+        "started_broadcasting": "2009-03-02"
+    }, 
+    {
+        "country": "Greece", 
+        "episode_count": "00655", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-01-012007", 
+        "genre": "Soap opera", 
+        "name": "Vera Sto Dexi", 
+        "seasons": "03", 
+        "started_broadcasting": "2004-01-012004"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00647", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Music", 
+        "name": "Chic-a-Go-Go", 
+        "seasons": "", 
+        "started_broadcasting": "1996-05-01"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00645", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-10-12", 
+        "genre": "Telenovela", 
+        "name": "Verliebt in Berlin", 
+        "seasons": "02", 
+        "started_broadcasting": "2005-02-28"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00644", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Chat showEntertainment", 
+        "name": "The Paul O'Grady Show", 
+        "seasons": "09", 
+        "started_broadcasting": "2004-10-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00634", 
+        "episode_minutes": "120", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional wrestling", 
+        "name": "WWE Friday Night SmackDown", 
+        "seasons": "13", 
+        "started_broadcasting": "1999-08-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00635", 
+        "episode_minutes": "30, 60", 
+        "finished_broadcasting": "1975-03-31", 
+        "genre": "Western", 
+        "name": "Gunsmoke", 
+        "seasons": "20", 
+        "started_broadcasting": "1955-09-10"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00634", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2011-12-19", 
+        "genre": "Court show", 
+        "name": "S\u0119dzia Anna Maria weso\u0142owska", 
+        "seasons": "12", 
+        "started_broadcasting": "2006-03-06"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00634", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Case Closed/Detective Conan", 
+        "seasons": "21", 
+        "started_broadcasting": "1996-01-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00617", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1982-12-31", 
+        "genre": "Soap opera", 
+        "name": "Texas", 
+        "seasons": "", 
+        "started_broadcasting": "1980-08-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00609", 
+        "episode_minutes": "180+", 
+        "finished_broadcasting": "", 
+        "genre": "Sports", 
+        "name": "Monday Night Football", 
+        "seasons": "", 
+        "started_broadcasting": "1970-09-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00605", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1972-03-31", 
+        "genre": "Soap opera", 
+        "name": "Bright Promise", 
+        "seasons": "", 
+        "started_broadcasting": "1969-09-29"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00601", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2008-09-15", 
+        "genre": "DramaSoap opera", 
+        "name": "Grange Hill", 
+        "seasons": "", 
+        "started_broadcasting": "1978-02-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00588", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1973-03-24", 
+        "genre": "Drama", 
+        "name": "Lassie", 
+        "seasons": "22", 
+        "started_broadcasting": "1954-09-12"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00582", 
+        "episode_minutes": "55", 
+        "finished_broadcasting": "1984-01-011984", 
+        "genre": "Soap opera", 
+        "name": "Cop Shop", 
+        "seasons": "", 
+        "started_broadcasting": "1977-01-011977"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00547", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "1993-02-01", 
+        "genre": "Children's game show", 
+        "name": "Double Dare- Original run", 
+        "seasons": "", 
+        "started_broadcasting": "1986-10-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00547", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "2000-01-012000", 
+        "genre": "Children's game show", 
+        "name": "Double Dare- Revival run", 
+        "seasons": "", 
+        "started_broadcasting": "2000-01-012000"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00547", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1972-01-011972", 
+        "genre": "Educational", 
+        "name": "Watch Mr. Wizard", 
+        "seasons": "", 
+        "started_broadcasting": "1951-01-011951"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00515", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "One Piece", 
+        "seasons": "14", 
+        "started_broadcasting": "1999-10-20"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00535", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "2009-01-23", 
+        "genre": "Game show", 
+        "name": "Temptation", 
+        "seasons": "04", 
+        "started_broadcasting": "2005-05-30"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00532", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Schloss Einstein", 
+        "seasons": "10", 
+        "started_broadcasting": "1998-09-01"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00516", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2009-05-27", 
+        "genre": "Game show", 
+        "name": "Kapamilya, Deal or No Deal", 
+        "seasons": "03", 
+        "started_broadcasting": "2006-06-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00515", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1966-12-19", 
+        "genre": "Soap opera", 
+        "name": "A Flame in the Wind", 
+        "seasons": "", 
+        "started_broadcasting": "1964-12-28"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00514", 
+        "episode_minutes": "30, 24", 
+        "finished_broadcasting": "1969-06-02", 
+        "genre": "Soap opera", 
+        "name": "Peyton Place", 
+        "seasons": "", 
+        "started_broadcasting": "1964-09-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00513", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-05-30", 
+        "genre": "Sports EntertainmentProfessional wrestling", 
+        "name": "WWE Heat", 
+        "seasons": "10", 
+        "started_broadcasting": "1998-08-02"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00510", 
+        "episode_minutes": "50", 
+        "finished_broadcasting": "1977-01-01", 
+        "genre": "Police Drama", 
+        "name": "Homicide", 
+        "seasons": "", 
+        "started_broadcasting": "1964-10-20"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00510", 
+        "episode_minutes": "50", 
+        "finished_broadcasting": "2006-06-04", 
+        "genre": "Police Drama", 
+        "name": "Blue Heelers", 
+        "seasons": "13", 
+        "started_broadcasting": "1994-01-18"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00500", 
+        "episode_minutes": "60, 90", 
+        "finished_broadcasting": "", 
+        "genre": "EntertainmentDocumentary", 
+        "name": "E! True Hollywood Story", 
+        "seasons": "11", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00500", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Sports EntertainmentProfessional wrestling", 
+        "name": "Ohio Valley Wrestling TV", 
+        "seasons": "", 
+        "started_broadcasting": "1998-01-011998[58]"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00500", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "Alles was z\u00e4hlt", 
+        "seasons": "", 
+        "started_broadcasting": "2006-09-04"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00500", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "", 
+        "genre": "ComedyDrama", 
+        "name": "Baa Bahoo Aur Baby", 
+        "seasons": "", 
+        "started_broadcasting": "2005-08-05"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00500", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Documentary", 
+        "name": "I-Witness: The GMA Documentaries", 
+        "seasons": "", 
+        "started_broadcasting": "1999-01-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00500", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2004-04-03", 
+        "genre": "Music video", 
+        "name": "CMT Most Wanted Live", 
+        "seasons": "", 
+        "started_broadcasting": "2001-05-28"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00487", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Archive chart music", 
+        "name": "TOTP2", 
+        "seasons": "", 
+        "started_broadcasting": "1994-02-07"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "00485", 
+        "episode_minutes": "5, 8", 
+        "finished_broadcasting": "2003-10-16", 
+        "genre": "Sitcom", 
+        "name": "Un gars, une fille", 
+        "seasons": "5", 
+        "started_broadcasting": "1999-10-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00504", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Animated Sitcom", 
+        "name": "The Simpsons", 
+        "seasons": "22", 
+        "started_broadcasting": "1989-12-17"
+    }, 
+    {
+        "country": "Italy", 
+        "episode_count": "00484", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1968-01-011968", 
+        "genre": "Educational", 
+        "name": "Non \u00e8 mai troppo tardi (TV program)", 
+        "seasons": "", 
+        "started_broadcasting": "1960-11-15"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00483", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Medical drama", 
+        "name": "Na dobre i na z\u0142e", 
+        "seasons": "13", 
+        "started_broadcasting": "1999-11-07"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "00480", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-12-28", 
+        "genre": "Soap opera", 
+        "name": "Sous le soleil", 
+        "seasons": "", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00480", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2002-09-20", 
+        "genre": "DramaRomance", 
+        "name": "Pangako sa \u2019Yo", 
+        "seasons": "", 
+        "started_broadcasting": "2000-11-13"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00480", 
+        "episode_minutes": "30, 45", 
+        "finished_broadcasting": "1999-07-01", 
+        "genre": "DramaRomance", 
+        "name": "Esperanza", 
+        "seasons": "", 
+        "started_broadcasting": "1997-01-011997"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00471", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Drama", 
+        "name": "All Saints", 
+        "seasons": "12", 
+        "started_broadcasting": "1998-01-011998"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00470", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1991-01-25", 
+        "genre": "Soap opera", 
+        "name": "Generations", 
+        "seasons": "", 
+        "started_broadcasting": "1989-03-27"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00457", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-10-25", 
+        "genre": "Drama", 
+        "name": "Mamta", 
+        "seasons": "01", 
+        "started_broadcasting": "2006-02-28"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00456", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Magazine", 
+        "name": "The One Show", 
+        "seasons": "", 
+        "started_broadcasting": "2006-08-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00456", 
+        "episode_minutes": "30, 60", 
+        "finished_broadcasting": "1965-05-10", 
+        "genre": "DramaMysteryMelodrama", 
+        "name": "Alfred Hitchcock Presents", 
+        "seasons": "14", 
+        "started_broadcasting": "1955-10-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00456", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2010-05-24", 
+        "genre": "Drama", 
+        "name": "Law &amp; Order", 
+        "seasons": "20", 
+        "started_broadcasting": "1990-09-13"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00455", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Medical Drama", 
+        "name": "Holby City", 
+        "seasons": "11", 
+        "started_broadcasting": "1999-01-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00450", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1959-01-011959", 
+        "genre": "Drama", 
+        "name": "Dragnet- Original series", 
+        "seasons": "08", 
+        "started_broadcasting": "1951-01-011951"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00450", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1970-01-011970", 
+        "genre": "Drama", 
+        "name": "Dragnet- Second run", 
+        "seasons": "08", 
+        "started_broadcasting": "1967-01-011967"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00450", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1991-01-011991", 
+        "genre": "Drama", 
+        "name": "Dragnet- Third run", 
+        "seasons": "08", 
+        "started_broadcasting": "1989-01-011989"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00450", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-01-012004", 
+        "genre": "Drama", 
+        "name": "Dragnet- Final run", 
+        "seasons": "08", 
+        "started_broadcasting": "2003-01-012003"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00449", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-02-08", 
+        "genre": "Anime", 
+        "name": "Naruto", 
+        "seasons": "09", 
+        "started_broadcasting": "2002-10-03"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00449", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Anime", 
+        "name": "Naruto Shippuden", 
+        "seasons": "10", 
+        "started_broadcasting": "2007-02-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00448", 
+        "episode_minutes": "30, 60", 
+        "finished_broadcasting": "", 
+        "genre": "Funny videos", 
+        "name": "America's Funniest Home Videos", 
+        "seasons": "20", 
+        "started_broadcasting": "1990-01-14"
+    }, 
+    {
+        "country": "Thailand", 
+        "episode_count": "00444", 
+        "episode_minutes": "65", 
+        "finished_broadcasting": "", 
+        "genre": "Quiz show", 
+        "name": "Fan Pan Tae", 
+        "seasons": "", 
+        "started_broadcasting": "2000-09-01"
+    }, 
+    {
+        "country": "Hong Kong", 
+        "episode_count": "00443", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "2005-01-22", 
+        "genre": "Sitcom", 
+        "name": "Virtues of Harmony II", 
+        "seasons": "", 
+        "started_broadcasting": "2003-05-05"
+    }, 
+    {
+        "country": "France", 
+        "episode_count": "00441", 
+        "episode_minutes": "5", 
+        "finished_broadcasting": "1977-01-01", 
+        "genre": "Children's television series", 
+        "name": "The Magic Roundabout", 
+        "seasons": "", 
+        "started_broadcasting": "1965-10-18"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00440", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1996-01-011996", 
+        "genre": "Telenovela", 
+        "name": "Nada Personal", 
+        "seasons": "", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00440", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2006-12-15", 
+        "genre": "Telenovela", 
+        "name": "Rebelde", 
+        "seasons": "", 
+        "started_broadcasting": "2005-03-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00436", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Reality", 
+        "name": "The Real World", 
+        "seasons": "25", 
+        "started_broadcasting": "1992-05-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00435", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1966-09-03", 
+        "genre": "Sitcom", 
+        "name": "The Adventures of Ozzie and Harriet", 
+        "seasons": "14", 
+        "started_broadcasting": "1952-10-03"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00430", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1999-11-03", 
+        "genre": "Soap opera", 
+        "name": "Breakers", 
+        "seasons": "", 
+        "started_broadcasting": "1998-02-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00430", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1973-01-19", 
+        "genre": "Western", 
+        "name": "Bonanza", 
+        "seasons": "14", 
+        "started_broadcasting": "1959-09-12"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00429", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1969-03-30", 
+        "genre": "Anime", 
+        "name": "GeGeGe no Kitaro- Original series", 
+        "seasons": "05", 
+        "started_broadcasting": "1968-01-03"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00429", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1972-09-28", 
+        "genre": "Anime", 
+        "name": "GeGeGe no Kitaro- Second run", 
+        "seasons": "05", 
+        "started_broadcasting": "1971-10-07"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00429", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1988-03-21", 
+        "genre": "Anime", 
+        "name": "GeGeGe no Kitaro- Third run", 
+        "seasons": "05", 
+        "started_broadcasting": "1985-10-12"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00429", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1998-03-29", 
+        "genre": "Anime", 
+        "name": "GeGeGe no Kitaro- Fourth run", 
+        "seasons": "05", 
+        "started_broadcasting": "1996-01-07"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00429", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2009-03-29", 
+        "genre": "Anime", 
+        "name": "GeGeGe no Kitaro- Fifth run", 
+        "seasons": "05", 
+        "started_broadcasting": "2007-04-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00426", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1974-01-04", 
+        "genre": "Soap opera", 
+        "name": "Return to Peyton Place", 
+        "seasons": "", 
+        "started_broadcasting": "1972-04-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00421", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "1990-08-25", 
+        "genre": "Children's", 
+        "name": "The Smurfs", 
+        "seasons": "09", 
+        "started_broadcasting": "1981-09-12"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00419", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-06-03", 
+        "genre": "Drama", 
+        "name": "Dream Team", 
+        "seasons": "", 
+        "started_broadcasting": "1997-10-14"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00414", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Docu-crime", 
+        "name": "Malanowski i partnerzy", 
+        "seasons": "08", 
+        "started_broadcasting": "2009-02-09"
+    }, 
+    {
+        "country": "Spain", 
+        "episode_count": "00411", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2004-06-11", 
+        "genre": "Game show", 
+        "name": "Un, dos, tres... responda otra vez", 
+        "seasons": "10", 
+        "started_broadcasting": "1972-04-24"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00404", 
+        "episode_minutes": "6030", 
+        "finished_broadcasting": "1983-05-01", 
+        "genre": "Soap opera", 
+        "name": "E Street", 
+        "seasons": "", 
+        "started_broadcasting": "1989-01-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00398", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Reality Show", 
+        "name": "American Idol", 
+        "seasons": "010", 
+        "started_broadcasting": "2002-06-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00395", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1967-03-31", 
+        "genre": "Soap opera", 
+        "name": "The Nurses", 
+        "seasons": "", 
+        "started_broadcasting": "1965-09-27"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00392", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Sitcom", 
+        "name": "\u015awiat wed\u0142ug Kiepskich", 
+        "seasons": "15", 
+        "started_broadcasting": "1999-03-16"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00387", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1990-04-01", 
+        "genre": "ComedyDrama", 
+        "name": "The Beachcombers", 
+        "seasons": "19", 
+        "started_broadcasting": "1972-10-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00380", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1972-08-24", 
+        "genre": "Sitcom", 
+        "name": "My Three Sons", 
+        "seasons": "12", 
+        "started_broadcasting": "1960-09-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00375", 
+        "episode_minutes": "60, 120", 
+        "finished_broadcasting": "", 
+        "genre": "Sports EntertainmentProfessional wrestling", 
+        "name": "TNA Impact!", 
+        "seasons": "04", 
+        "started_broadcasting": "2004-06-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00359", 
+        "episode_minutes": "18 !18", 
+        "finished_broadcasting": "2010-09-12", 
+        "genre": "Crime drama", 
+        "name": "Heartbeat", 
+        "seasons": "60", 
+        "started_broadcasting": "1992-04-12"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00367", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2005-01-012005", 
+        "genre": "Anime", 
+        "name": "Kochira Katsushika-ku Kameari K\u014den-mae Hashutsujo", 
+        "seasons": "", 
+        "started_broadcasting": "1996-06-16"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00366", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2012-03-27", 
+        "genre": "Anime", 
+        "name": "Bleach", 
+        "seasons": "15", 
+        "started_broadcasting": "2004-10-05"
+    }, 
+    {
+        "country": "Israel", 
+        "episode_count": "00366", 
+        "episode_minutes": "40", 
+        "finished_broadcasting": "2007-01-012007", 
+        "genre": "MusicalComedyDrama", 
+        "name": "Hashir Shelanu", 
+        "seasons": "04", 
+        "started_broadcasting": "2004-03-01"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00365", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2003-01-012003", 
+        "genre": "Telenovela", 
+        "name": "Clase 406", 
+        "seasons": "04", 
+        "started_broadcasting": "2002-01-012002"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00365", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2001-01-05", 
+        "genre": "Children's", 
+        "name": "Teletubbies", 
+        "seasons": "", 
+        "started_broadcasting": "1997-03-31"
+    }, 
+    {
+        "country": "Hong Kong", 
+        "episode_count": "00364", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "2008-08-07", 
+        "genre": "Sitcom", 
+        "name": "Best Selling Secrets", 
+        "seasons": "", 
+        "started_broadcasting": "2007-03-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00363", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional wrestling", 
+        "name": "WWE After Burn", 
+        "seasons": "", 
+        "started_broadcasting": "2002-05-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00363", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional wrestling", 
+        "name": "WWE Bottom Line", 
+        "seasons": "", 
+        "started_broadcasting": "2002-05-24"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00358", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2011-04-04", 
+        "genre": "Anime sitcom", 
+        "name": "Sgt. Frog", 
+        "seasons": "05", 
+        "started_broadcasting": "2004-04-03"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00358", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "1989-01-011989", 
+        "genre": "TelenovelaDramaComedy", 
+        "name": "Carrusel", 
+        "seasons": "01", 
+        "started_broadcasting": "1989-01-011989"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00357", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1978-04-30", 
+        "genre": "Soap opera", 
+        "name": "Dallas- Miniseries", 
+        "seasons": "14", 
+        "started_broadcasting": "1978-04-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00357", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1991-05-03", 
+        "genre": "Soap opera", 
+        "name": "Dallas- Weekly", 
+        "seasons": "14", 
+        "started_broadcasting": "1978-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00356", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "2002-01-012002", 
+        "genre": "Game showReality show", 
+        "name": "Who Wants to Be a Millionaire - Primetime", 
+        "seasons": "", 
+        "started_broadcasting": "1999-08-16"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00356", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2003-04-12", 
+        "genre": "Dating game show", 
+        "name": "Blind Date", 
+        "seasons": "18", 
+        "started_broadcasting": "1985-11-30"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00354", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2009-11-15", 
+        "genre": "Talk Show", 
+        "name": "Rove", 
+        "seasons": "011", 
+        "started_broadcasting": "1999-09-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00352", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1997-03-28", 
+        "genre": "Soap opera", 
+        "name": "The City", 
+        "seasons": "", 
+        "started_broadcasting": "1995-11-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00351", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1964-09-14", 
+        "genre": "Sitcom", 
+        "name": "The Danny Thomas Show", 
+        "seasons": "11", 
+        "started_broadcasting": "1953-09-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00350", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "", 
+        "genre": "Cartoon", 
+        "name": "Scooby-Doo", 
+        "seasons": "", 
+        "started_broadcasting": "1969-09-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00350", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "True crime", 
+        "name": "Forensic Files", 
+        "seasons": "12", 
+        "started_broadcasting": "1995-08-01"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00350", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2008-03-01", 
+        "genre": "RomanceSoap opera", 
+        "name": "Kayamath", 
+        "seasons": "", 
+        "started_broadcasting": "2007-02-19"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00350", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2006-08-26", 
+        "genre": "Drama", 
+        "name": "Kkavyanjali", 
+        "seasons": "01", 
+        "started_broadcasting": "2005-01-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00345", 
+        "episode_minutes": "22, 26", 
+        "finished_broadcasting": "2007-06-29", 
+        "genre": "Game show", 
+        "name": "Lingo (US game show)", 
+        "seasons": "07", 
+        "started_broadcasting": "2002-08-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00344", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1993-05-13", 
+        "genre": "Soap opera", 
+        "name": "Knots Landing", 
+        "seasons": "14", 
+        "started_broadcasting": "1979-12-27"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00344", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-12-10", 
+        "genre": "DramaSoap opera", 
+        "name": "Byker Grove", 
+        "seasons": "18", 
+        "started_broadcasting": "1989-11-08"
+    }, 
+    {
+        "country": "Hungary", 
+        "episode_count": "00331", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1999-01-011999", 
+        "genre": "Soap opera", 
+        "name": "Szomsz\u00e9dok", 
+        "seasons": "", 
+        "started_broadcasting": "1987-01-011987"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00331", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1996-06-09", 
+        "genre": "Anime", 
+        "name": "Kiteretsu Daihyakka", 
+        "seasons": "", 
+        "started_broadcasting": "1988-03-27"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00331", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2009-04-02", 
+        "genre": "Drama", 
+        "name": "ER", 
+        "seasons": "15", 
+        "started_broadcasting": "1994-09-19"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00327", 
+        "episode_minutes": "25, 45", 
+        "finished_broadcasting": "2009-12-20", 
+        "genre": "Comedy, family drama", 
+        "name": "Rodzina zast\u0119pcza", 
+        "seasons": "17", 
+        "started_broadcasting": "1999-02-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00325", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1971-06-25", 
+        "genre": "Soap opera", 
+        "name": "A World Apart", 
+        "seasons": "", 
+        "started_broadcasting": "1970-03-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00325", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "1977-05-10", 
+        "genre": "Soap opera", 
+        "name": "Mary Hartman, Mary Hartman", 
+        "seasons": "02", 
+        "started_broadcasting": "1976-01-06"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00325", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2002-01-012002", 
+        "genre": "Children's education", 
+        "name": "Y?", 
+        "seasons": "05", 
+        "started_broadcasting": "1999-01-011999"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00324", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2003-01-012003", 
+        "genre": "Game show", 
+        "name": "Weakest Link - Syndicated", 
+        "seasons": "02", 
+        "started_broadcasting": "2002-01-012002"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00323", 
+        "episode_minutes": "4 minutes 30 seconds7 Minutes", 
+        "finished_broadcasting": "", 
+        "genre": "Children's", 
+        "name": "Thomas and Friends", 
+        "seasons": "", 
+        "started_broadcasting": "1984-09-04"
+    }, 
+    {
+        "country": "Hong Kong", 
+        "episode_count": "00322", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "2002-12-28", 
+        "genre": "Soap opera", 
+        "name": "Virtues of Harmony", 
+        "seasons": "", 
+        "started_broadcasting": "2001-09-17"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00322", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2009-05-09", 
+        "genre": "Sitcom", 
+        "name": "\u015awi\u0119ta wojna", 
+        "seasons": "10", 
+        "started_broadcasting": "2000-01-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00321", 
+        "episode_minutes": "60, 30", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy", 
+        "name": "MADtv", 
+        "seasons": "13", 
+        "started_broadcasting": "1995-10-14"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00320", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1993-08-24", 
+        "genre": "Soap opera", 
+        "name": "Families", 
+        "seasons": "", 
+        "started_broadcasting": "1990-04-23"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00320", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2002-05-02", 
+        "genre": "Soap opera", 
+        "name": "Something in the Air", 
+        "seasons": "", 
+        "started_broadcasting": "2000-01-17"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00320", 
+        "episode_minutes": "20, 60", 
+        "finished_broadcasting": "2003-01-012003", 
+        "genre": "Soap opera", 
+        "name": "Night and Day", 
+        "seasons": "01", 
+        "started_broadcasting": "2001-01-012001"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00318", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2005-07-01", 
+        "genre": "Soap opera", 
+        "name": "Train 48", 
+        "seasons": "", 
+        "started_broadcasting": "2003-06-02"
+    }, 
+    {
+        "country": "Sweden", 
+        "episode_count": "00318", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2002-01-012002", 
+        "genre": "Drama", 
+        "name": "Rederiet", 
+        "seasons": "20", 
+        "started_broadcasting": "1992-01-011992"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00317", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1986-02-19", 
+        "genre": "Anime", 
+        "name": "Dr. Slump- Original series", 
+        "seasons": "", 
+        "started_broadcasting": "1981-04-08"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00317", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1999-09-22", 
+        "genre": "Anime", 
+        "name": "Dr. Slump- Second series", 
+        "seasons": "", 
+        "started_broadcasting": "1997-11-26"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00316", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy panel game", 
+        "name": "Have I Got News For You", 
+        "seasons": "36", 
+        "started_broadcasting": "1990-09-28"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00310", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-10-05", 
+        "genre": "Drama", 
+        "name": "Kaisa Ye Pyar Hai", 
+        "seasons": "", 
+        "started_broadcasting": "2005-03-29"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00304", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "", 
+        "genre": "Medical DramaRomance", 
+        "name": "Dill Mill Gaye", 
+        "seasons": "", 
+        "started_broadcasting": "2007-08-20"
+    }, 
+    {
+        "country": "Greece", 
+        "episode_count": "00303", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-06-23", 
+        "genre": "Telenovela", 
+        "name": "Maria, i Aschimi", 
+        "seasons": "02", 
+        "started_broadcasting": "2007-01-01"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00302", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2007-02-25", 
+        "genre": "Telenovela", 
+        "name": "La Fea M\u00e1s Bella", 
+        "seasons": "", 
+        "started_broadcasting": "2006-01-23"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00301", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1975-01-011975", 
+        "genre": "Soap opera", 
+        "name": "Division 4", 
+        "seasons": "", 
+        "started_broadcasting": "1969-01-011969"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00300", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "", 
+        "genre": "Soap opera", 
+        "name": "In aller Freundschaft", 
+        "seasons": "", 
+        "started_broadcasting": "1998-01-011998"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00300", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2007-01-12", 
+        "genre": "Game show", 
+        "name": "The Price Is Right", 
+        "seasons": "15", 
+        "started_broadcasting": "1984-03-24"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00300", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-04-07", 
+        "genre": "Comedy", 
+        "name": "The Red Green Show", 
+        "seasons": "14", 
+        "started_broadcasting": "1991-01-011991"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00298", 
+        "episode_minutes": "47", 
+        "finished_broadcasting": "2006-04-03", 
+        "genre": "Game show", 
+        "name": "Who Wants to Be a Millionaire?- First run", 
+        "seasons": "09", 
+        "started_broadcasting": "1999-04-18"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00298", 
+        "episode_minutes": "47", 
+        "finished_broadcasting": "", 
+        "genre": "Game show", 
+        "name": "Who Wants to Be a Millionaire?- Second run", 
+        "seasons": "09", 
+        "started_broadcasting": "2007-10-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00296", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1996-10-04", 
+        "genre": "Children's Game show", 
+        "name": "Where in the World Is Carmen Sandiego?", 
+        "seasons": "05", 
+        "started_broadcasting": "1991-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00296", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2000-05-17", 
+        "genre": "Teen dramaSoap opera", 
+        "name": "Beverly Hills, 90210", 
+        "seasons": "10", 
+        "started_broadcasting": "1990-10-04"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00290", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2010-08-29", 
+        "genre": "Sitcom", 
+        "name": "Last of the Summer Wine", 
+        "seasons": "31", 
+        "started_broadcasting": "1973-11-12"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00292", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "Docu-drama", 
+        "name": "Dlaczego ja?", 
+        "seasons": "04", 
+        "started_broadcasting": "2010-03-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00291", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1957-01-011957", 
+        "genre": "Sitcom", 
+        "name": "The George Burns and Gracie Allen Show", 
+        "seasons": "08", 
+        "started_broadcasting": "1950-01-011950"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00291", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1996-01-31", 
+        "genre": "Anime", 
+        "name": "Dragon Ball Z", 
+        "seasons": "07", 
+        "started_broadcasting": "1989-04-26"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00290", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1975-01-011975", 
+        "genre": "Soap opera", 
+        "name": "Class of 74", 
+        "seasons": "", 
+        "started_broadcasting": "1974-03-01"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00289", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "1994-08-17", 
+        "genre": "Sitcom", 
+        "name": "Hey Dad..!", 
+        "seasons": "", 
+        "started_broadcasting": "1987-02-11"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00287", 
+        "episode_minutes": "10", 
+        "finished_broadcasting": "2000-01-012000", 
+        "genre": "Comedy", 
+        "name": "Tata, a Marcin powiedzia\u0142", 
+        "seasons": "07", 
+        "started_broadcasting": "1993-01-011993"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00284", 
+        "episode_minutes": "60, 120, 180", 
+        "finished_broadcasting": "2001-03-26", 
+        "genre": "Professional wrestling", 
+        "name": "WCW Monday Nitro", 
+        "seasons": "", 
+        "started_broadcasting": "1995-09-04"
+    }, 
+    {
+        "country": "Portugal", 
+        "episode_count": "00282", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2007-09-16", 
+        "genre": "Telenovela", 
+        "name": "Doce Fugitiva", 
+        "seasons": "", 
+        "started_broadcasting": "2006-10-23"
+    }, 
+    {
+        "country": "United StatesCanada", 
+        "episode_count": "00281", 
+        "episode_minutes": "25-30", 
+        "finished_broadcasting": "2003-01-012003", 
+        "genre": "Game show", 
+        "name": "Let's Make a Deal", 
+        "seasons": "", 
+        "started_broadcasting": "1963-12-30"
+    }, 
+    {
+        "country": "MexicoUnited States", 
+        "episode_count": "00280", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2006-10-20", 
+        "genre": "Telenovela", 
+        "name": "El Amor No Tiene Precio", 
+        "seasons": "01", 
+        "started_broadcasting": "2005-09-26"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00279", 
+        "episode_minutes": "95 Minutes", 
+        "finished_broadcasting": "2003-12-27", 
+        "genre": "Children's", 
+        "name": "SMTV Live", 
+        "seasons": "", 
+        "started_broadcasting": "1998-08-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00278", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1980-04-26", 
+        "genre": "Drama", 
+        "name": "Hawaii Five-O", 
+        "seasons": "12", 
+        "started_broadcasting": "1968-09-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00275", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1966-03-19", 
+        "genre": "Sitcom", 
+        "name": "The Donna Reed Show", 
+        "seasons": "08", 
+        "started_broadcasting": "1958-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00275", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1993-05-20", 
+        "genre": "Sitcom", 
+        "name": "Cheers", 
+        "seasons": "11", 
+        "started_broadcasting": "1982-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00274", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1971-09-07", 
+        "genre": "Sitcom", 
+        "name": "The Beverly Hillbillies", 
+        "seasons": "09", 
+        "started_broadcasting": "1962-09-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00271", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1966-05-22", 
+        "genre": "Drama", 
+        "name": "Perry Mason", 
+        "seasons": "09", 
+        "started_broadcasting": "1957-09-21"
+    }, 
+    {
+        "country": "Argentina", 
+        "episode_count": "00270", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1999-01-011999", 
+        "genre": "Telenovela", 
+        "name": "Mu\u00f1eca Brava", 
+        "seasons": "", 
+        "started_broadcasting": "1998-01-011998"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00266", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Crime drama", 
+        "name": "Ein Fall f\u00fcr zwei", 
+        "seasons": "29", 
+        "started_broadcasting": "1981-09-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00264", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-05-13", 
+        "genre": "Sitcom", 
+        "name": "Frasier", 
+        "seasons": "11", 
+        "started_broadcasting": "1993-09-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00264", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1996-05-19", 
+        "genre": "Drama", 
+        "name": "Murder, She Wrote", 
+        "seasons": "12", 
+        "started_broadcasting": "1984-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00263", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1997-06-08", 
+        "genre": "Sitcom", 
+        "name": "Married... with Children", 
+        "seasons": "11", 
+        "started_broadcasting": "1987-04-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00262", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional wrestling", 
+        "name": "The WWE Experience", 
+        "seasons": "", 
+        "started_broadcasting": "2004-05-02"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00262", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "MagazineLifestyle", 
+        "name": "Rated K", 
+        "seasons": "", 
+        "started_broadcasting": "2004-05-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00262", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2005-03-01", 
+        "genre": "Drama", 
+        "name": "NYPD Blue", 
+        "seasons": "12", 
+        "started_broadcasting": "1993-09-21"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00260", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1994-01-011994", 
+        "genre": "Soap opera", 
+        "name": "Paradise Beach", 
+        "seasons": "", 
+        "started_broadcasting": "1993-01-011993"
+    }, 
+    {
+        "country": "United KingdomUnited States", 
+        "episode_count": "00260", 
+        "episode_minutes": "10", 
+        "finished_broadcasting": "2004-01-012004", 
+        "genre": "Children's", 
+        "name": "Mopatop's Shop", 
+        "seasons": "04", 
+        "started_broadcasting": "1999-01-011999"
+    }, 
+    {
+        "country": "New Zealand", 
+        "episode_count": "00260", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2003-09-06", 
+        "genre": "Teen dramaScience Fiction", 
+        "name": "The Tribe", 
+        "seasons": "05", 
+        "started_broadcasting": "1999-04-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00253", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Sitcom", 
+        "name": "King of the Hill", 
+        "seasons": "13", 
+        "started_broadcasting": "1997-01-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00255", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1984-06-12", 
+        "genre": "Sitcom", 
+        "name": "Happy Days", 
+        "seasons": "11", 
+        "started_broadcasting": "1974-01-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00254", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1972-07-01", 
+        "genre": "Sitcom", 
+        "name": "Bewitched", 
+        "seasons": "08", 
+        "started_broadcasting": "1964-09-17"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00253", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1985-06-25", 
+        "genre": "Sitcom", 
+        "name": "The Jeffersons", 
+        "seasons": "11", 
+        "started_broadcasting": "1975-01-18"
+    }, 
+    {
+        "country": "Venezuela", 
+        "episode_count": "00252", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2003-05-02", 
+        "genre": "Drama", 
+        "name": "Gata Salvaje", 
+        "seasons": "01", 
+        "started_broadcasting": "2002-05-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00251", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1983-02-28", 
+        "genre": "Sitcom", 
+        "name": "M*A*S*H", 
+        "seasons": "11", 
+        "started_broadcasting": "1972-09-17"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00249", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1968-04-01", 
+        "genre": "Sitcom", 
+        "name": "The Andy Griffith Show", 
+        "seasons": "08", 
+        "started_broadcasting": "1960-10-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00249", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1986-05-24", 
+        "genre": "Sitcom", 
+        "name": "The Love Boat", 
+        "seasons": "09", 
+        "started_broadcasting": "1977-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00249", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Action EntertainmentSports EntertainmentProfessional Wrestling", 
+        "name": "WWE A.M. Raw", 
+        "seasons": "", 
+        "started_broadcasting": "2005-10-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00247", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1998-05-18", 
+        "genre": "Sitcom", 
+        "name": "Murphy Brown", 
+        "seasons": "10", 
+        "started_broadcasting": "1988-11-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00245", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1974-05-24", 
+        "genre": "VarietyComedy", 
+        "name": "The Dean Martin Show", 
+        "seasons": "09", 
+        "started_broadcasting": "1965-09-16"
+    }, 
+    {
+        "country": "Russia", 
+        "episode_count": "00244", 
+        "episode_minutes": "48", 
+        "finished_broadcasting": "2008-10-16", 
+        "genre": "Criminal Drama", 
+        "name": "\u0423\u043b\u0438\u0446\u044b \u0440\u0430\u0437\u0431\u0438\u0442\u044b\u0445 \u0444\u043e\u043d\u0430\u0440\u0435\u0439", 
+        "seasons": "9", 
+        "started_broadcasting": "1998-04-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00244", 
+        "episode_minutes": "21 Minutes 30 Seconds", 
+        "finished_broadcasting": "", 
+        "genre": "Cooking show", 
+        "name": "Good Eats", 
+        "seasons": "14", 
+        "started_broadcasting": "1999-07-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00243", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-05-13", 
+        "genre": "Family Drama", 
+        "name": "7th Heaven", 
+        "seasons": "11", 
+        "started_broadcasting": "1996-08-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00243", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2001-05-14", 
+        "genre": "Drama", 
+        "name": "Baywatch", 
+        "seasons": "11", 
+        "started_broadcasting": "1989-09-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00241", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Reality based Competition", 
+        "name": "Survivor", 
+        "seasons": "18", 
+        "started_broadcasting": "2000-05-31"
+    }, 
+    {
+        "country": "Venezuela", 
+        "episode_count": "00239", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1991-01-011991", 
+        "genre": "Telenovela", 
+        "name": "Mundo de Fieras", 
+        "seasons": "01", 
+        "started_broadcasting": "1991-01-011991"
+    }, 
+    {
+        "country": "Hong Kong", 
+        "episode_count": "00239", 
+        "episode_minutes": "20", 
+        "finished_broadcasting": "2007-03-10", 
+        "genre": "Sitcom", 
+        "name": "Welcome to the House", 
+        "seasons": "", 
+        "started_broadcasting": "2006-04-10"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00236", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Teen Drama", 
+        "name": "Degrassi: The Next Generation", 
+        "seasons": "10", 
+        "started_broadcasting": "2001-10-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00236", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-05-06", 
+        "genre": "Sitcom", 
+        "name": "Friends", 
+        "seasons": "10", 
+        "started_broadcasting": "1994-09-22"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00235", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2009-12-22", 
+        "genre": "Soap opera", 
+        "name": "BrzydUla", 
+        "seasons": "02", 
+        "started_broadcasting": "2008-10-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00234", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1963-06-20", 
+        "genre": "Sitcom", 
+        "name": "Leave It to Beaver", 
+        "seasons": "06", 
+        "started_broadcasting": "1957-10-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00233", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-09-08", 
+        "genre": "Sitcom", 
+        "name": "The Drew Carey Show", 
+        "seasons": "09", 
+        "started_broadcasting": "1995-09-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00233", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1988-11-18", 
+        "genre": "Children'sEducation", 
+        "name": "3-2-1 Contact", 
+        "seasons": "", 
+        "started_broadcasting": "1980-01-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00232", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2012-04-12", 
+        "genre": "Crime Drama", 
+        "name": "CSI: Miami", 
+        "seasons": "10", 
+        "started_broadcasting": "2002-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00230", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Animated Sitcom", 
+        "name": "South Park", 
+        "seasons": "16", 
+        "started_broadcasting": "1997-08-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00230", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-11-06", 
+        "genre": "Children'sEducation", 
+        "name": "Square One TV", 
+        "seasons": "5", 
+        "started_broadcasting": "1987-01-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00229", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Drama", 
+        "name": "CSI: Crime Scene Investigation", 
+        "seasons": "011", 
+        "started_broadcasting": "2000-10-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00227", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2005-04-29", 
+        "genre": "Drama", 
+        "name": "JAG", 
+        "seasons": "10", 
+        "started_broadcasting": "1995-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00227", 
+        "episode_minutes": "50", 
+        "finished_broadcasting": "1990-05-17", 
+        "genre": "Soap opera", 
+        "name": "Falcon Crest", 
+        "seasons": "09", 
+        "started_broadcasting": "1981-12-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00227", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1999-05-24", 
+        "genre": "Soap opera", 
+        "name": "Melrose Place", 
+        "seasons": "07", 
+        "started_broadcasting": "1992-07-08"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00226", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2006-10-16", 
+        "genre": "Sitcom", 
+        "name": "Lokatorzy", 
+        "seasons": "06", 
+        "started_broadcasting": "2000-02-06"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00224", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Chat showComedy", 
+        "name": "Friday Night with Jonathan Ross", 
+        "seasons": "16", 
+        "started_broadcasting": "2001-11-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00224", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Drama", 
+        "name": "Law &amp; Order: Special Victims Unit", 
+        "seasons": "10", 
+        "started_broadcasting": "1999-09-20"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00224", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1963-06-03", 
+        "genre": "Sitcom", 
+        "name": "The Real McCoys", 
+        "seasons": "", 
+        "started_broadcasting": "1957-10-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00224", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2006-06-10", 
+        "genre": "Anime", 
+        "name": "Yu-Gi-Oh! Duel Monsters", 
+        "seasons": "05", 
+        "started_broadcasting": "2001-09-29"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00224", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-01-11", 
+        "genre": "Soap opera", 
+        "name": "Lola...\u00c9rase una vez", 
+        "seasons": "", 
+        "started_broadcasting": "2007-02-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00222", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1970-04-04", 
+        "genre": "Sitcom", 
+        "name": "Petticoat Junction", 
+        "seasons": "07", 
+        "started_broadcasting": "1963-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00222", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1997-05-21", 
+        "genre": "Sitcom", 
+        "name": "Roseanne", 
+        "seasons": "09", 
+        "started_broadcasting": "1988-10-18"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00222", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2002-09-05", 
+        "genre": "Teen DramaComedySoap opera", 
+        "name": "Undressed", 
+        "seasons": "06", 
+        "started_broadcasting": "1999-07-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00221", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1981-06-04", 
+        "genre": "Family Drama", 
+        "name": "The Waltons", 
+        "seasons": "09", 
+        "started_broadcasting": "1972-09-14"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00221", 
+        "episode_minutes": "55", 
+        "finished_broadcasting": "1993-01-011993", 
+        "genre": "Soap opera", 
+        "name": "The Flying Doctors", 
+        "seasons": "", 
+        "started_broadcasting": "1986-01-011986"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00220", 
+        "episode_minutes": "46", 
+        "finished_broadcasting": "1989-05-11", 
+        "genre": "Soap opera", 
+        "name": "Dynasty", 
+        "seasons": "", 
+        "started_broadcasting": "1981-01-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00220", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2006-11-10", 
+        "genre": "Improvisational Comedy", 
+        "name": "Whose Line Is It Anyway?", 
+        "seasons": "08", 
+        "started_broadcasting": "1998-08-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00217", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2011-05-13", 
+        "genre": "ActionAdventureScience Fiction", 
+        "name": "Smallville", 
+        "seasons": "010", 
+        "started_broadcasting": "2001-10-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00215", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1998-07-17", 
+        "genre": "Sitcom", 
+        "name": "Family Matters", 
+        "seasons": "09", 
+        "started_broadcasting": "1989-09-22"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00214", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2011-12-22", 
+        "genre": "Court show", 
+        "name": "S\u0105d rodzinny", 
+        "seasons": "08", 
+        "started_broadcasting": "2008-03-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00214", 
+        "episode_minutes": "42", 
+        "finished_broadcasting": "", 
+        "genre": "Reality game show", 
+        "name": "The Amazing Race", 
+        "seasons": "18", 
+        "started_broadcasting": "2001-09-05"
+    }, 
+    {
+        "country": "United StatesCanada", 
+        "episode_count": "00214", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-03-13", 
+        "genre": "Science Fiction", 
+        "name": "Stargate SG-1", 
+        "seasons": "10", 
+        "started_broadcasting": "1997-07-27"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00212", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2003-04-27", 
+        "genre": "Drama", 
+        "name": "Touched by an Angel", 
+        "seasons": "09", 
+        "started_broadcasting": "1994-09-21"
+    }, 
+    {
+        "country": "Germany", 
+        "episode_count": "00211", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "", 
+        "genre": "ActionCrime drama", 
+        "name": "Alarm f\u00fcr Cobra 11   Die Autobahnpolizei", 
+        "seasons": "16", 
+        "started_broadcasting": "1996-03-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00210", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Police procedural", 
+        "name": "NCIS", 
+        "seasons": "09", 
+        "started_broadcasting": "2003-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00210", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-05-16", 
+        "genre": "Sitcom", 
+        "name": "Everybody Loves Raymond", 
+        "seasons": "09", 
+        "started_broadcasting": "1996-09-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00210", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-01-012004", 
+        "genre": "Reality", 
+        "name": "Road Rules- First run", 
+        "seasons": "13", 
+        "started_broadcasting": "1995-07-19"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00210", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-01-012007", 
+        "genre": "Reality", 
+        "name": "Road RulesSecond run", 
+        "seasons": "13", 
+        "started_broadcasting": "2007-01-012007"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00210", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1979-04-08", 
+        "genre": "Sitcom", 
+        "name": "All in the Family", 
+        "seasons": "09", 
+        "started_broadcasting": "1971-01-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00209", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1988-05-07", 
+        "genre": "Sitcom", 
+        "name": "The Facts of Life", 
+        "seasons": "09", 
+        "started_broadcasting": "1979-08-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00209", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2002-08-08", 
+        "genre": "Music video", 
+        "name": "Pop-up Video", 
+        "seasons": "", 
+        "started_broadcasting": "1996-10-27"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00209", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1984-05-28", 
+        "genre": "Sitcom", 
+        "name": "One Day at a Time", 
+        "seasons": "09", 
+        "started_broadcasting": "1975-12-16"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00207", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Chat show", 
+        "name": "The Alan Titchmarsh Show", 
+        "seasons": "04", 
+        "started_broadcasting": "2007-09-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00207", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-05-14", 
+        "genre": "Sitcom", 
+        "name": "The King of Queens", 
+        "seasons": "09", 
+        "started_broadcasting": "1998-09-21"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00207", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-11-02", 
+        "genre": "TelenovelaDrama", 
+        "name": "Fuego En La Sangre", 
+        "seasons": "", 
+        "started_broadcasting": "2008-01-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00206", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1964-02-07", 
+        "genre": "Drama", 
+        "name": "77 Sunset Strip", 
+        "seasons": "06", 
+        "started_broadcasting": "1958-10-10"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00205", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2002-01-012002", 
+        "genre": "Telenovela", 
+        "name": "Salom\u00e9", 
+        "seasons": "", 
+        "started_broadcasting": "2001-01-012001"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00205", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2004-01-012004", 
+        "genre": "Telenovela", 
+        "name": "Mujer de Madera", 
+        "seasons": "03", 
+        "started_broadcasting": "2004-01-012004"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00204", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2006-06-11", 
+        "genre": "Sports EntertainmentProfessional wrestling", 
+        "name": "WWE Velocity", 
+        "seasons": "", 
+        "started_broadcasting": "2002-05-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00204", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1999-05-25", 
+        "genre": "Sitcom", 
+        "name": "Home Improvement", 
+        "seasons": "08", 
+        "started_broadcasting": "1991-09-17"
+    }, 
+    {
+        "country": "Spain", 
+        "episode_count": "00204", 
+        "episode_minutes": "60, 90", 
+        "finished_broadcasting": "2006-01-012006", 
+        "genre": "Sitcom", 
+        "name": "7 vidas", 
+        "seasons": "", 
+        "started_broadcasting": "1999-01-011999"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00204", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Sitcom", 
+        "name": "Daleko od noszy", 
+        "seasons": "08", 
+        "started_broadcasting": "2003-12-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00203", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1960-05-23", 
+        "genre": "Sitcom", 
+        "name": "Father Knows Best", 
+        "seasons": "08", 
+        "started_broadcasting": "1954-10-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00203", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1983-03-21", 
+        "genre": "Drama", 
+        "name": "Little House on the Prairie", 
+        "seasons": "09", 
+        "started_broadcasting": "1974-09-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00203", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1965-01-16", 
+        "genre": "Science Fiction", 
+        "name": "The Outer Limits- Original series", 
+        "seasons": "09", 
+        "started_broadcasting": "1963-09-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00203", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2002-01-18", 
+        "genre": "Science Fiction", 
+        "name": "The Outer Limits- Revival series", 
+        "seasons": "09", 
+        "started_broadcasting": "1995-03-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00203", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2001-08-25", 
+        "genre": "Action", 
+        "name": "Walker, Texas Ranger", 
+        "seasons": "09", 
+        "started_broadcasting": "1993-04-21"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00202", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Comedy panel game", 
+        "name": "Never Mind The Buzzcocks", 
+        "seasons": "22", 
+        "started_broadcasting": "1996-11-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00202", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1985-07-02", 
+        "genre": "Sitcom", 
+        "name": "Alice", 
+        "seasons": "09", 
+        "started_broadcasting": "1976-08-31"
+    }, 
+    {
+        "country": "United StatesCanada", 
+        "episode_count": "00202", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2002-05-19", 
+        "genre": "Science Fiction", 
+        "name": "The X-Files", 
+        "seasons": "09", 
+        "started_broadcasting": "1993-09-10"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00201", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2002-01-012002", 
+        "genre": "Anime", 
+        "name": "Ojamajo Doremi", 
+        "seasons": "", 
+        "started_broadcasting": "1999-01-011999"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00201", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-04-30", 
+        "genre": "Sitcom", 
+        "name": "The Cosby Show", 
+        "seasons": "08", 
+        "started_broadcasting": "1984-09-20"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00201", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2010-03-25", 
+        "genre": "Anime", 
+        "name": "Gin Tama", 
+        "seasons": "", 
+        "started_broadcasting": "2006-04-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00200", 
+        "episode_minutes": "12", 
+        "finished_broadcasting": "1965-01-011965", 
+        "genre": "Sitcom", 
+        "name": "Mack &amp; Myer for Hire", 
+        "seasons": "", 
+        "started_broadcasting": "1963-01-011963"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00200", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2001-03-23", 
+        "genre": "DramaRomance", 
+        "name": "Saan Ka Man Naroroon", 
+        "seasons": "", 
+        "started_broadcasting": "1999-04-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00200", 
+        "episode_minutes": "24", 
+        "finished_broadcasting": "1997-05-14", 
+        "genre": "Sitcom", 
+        "name": "Coach", 
+        "seasons": "09", 
+        "started_broadcasting": "1989-02-28"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00200", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2007-02-23", 
+        "genre": "Telenovela", 
+        "name": "C\u00f3digo Postal", 
+        "seasons": "", 
+        "started_broadcasting": "2006-05-22"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00200", 
+        "episode_minutes": "47", 
+        "finished_broadcasting": "", 
+        "genre": "Variety", 
+        "name": "Australia's Funniest Home Videos", 
+        "seasons": "18", 
+        "started_broadcasting": "1990-03-29"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00200", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1997-02-08", 
+        "genre": "Anime", 
+        "name": "Sailor Moon", 
+        "seasons": "05", 
+        "started_broadcasting": "1992-03-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00200", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-05-18", 
+        "genre": "Sitcom", 
+        "name": "That '70s Show", 
+        "seasons": "08", 
+        "started_broadcasting": "1998-08-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00200", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1998-07-31", 
+        "genre": "Animated Sitcom", 
+        "name": "Beavis and Butt-head", 
+        "seasons": "07", 
+        "started_broadcasting": "1993-03-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00200", 
+        "episode_minutes": "60, 90", 
+        "finished_broadcasting": "2006-06-12", 
+        "genre": "Documentary", 
+        "name": "Behind the Music", 
+        "seasons": "", 
+        "started_broadcasting": "1997-08-17"
+    }, 
+    {
+        "country": "Belgium", 
+        "episode_count": "00200", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2008-06-29", 
+        "genre": "Soap opera", 
+        "name": "Sara", 
+        "seasons": "", 
+        "started_broadcasting": "2007-09-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00199", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2009-05-18", 
+        "genre": "Reality based Game show", 
+        "name": "Deal or No Deal", 
+        "seasons": "04", 
+        "started_broadcasting": "2005-12-19"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00196", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2011-12-23", 
+        "genre": "Soap opera", 
+        "name": "Prosto w serce", 
+        "seasons": "02", 
+        "started_broadcasting": "2011-01-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00196", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-04-25", 
+        "genre": "Sitcom", 
+        "name": "Who's the Boss", 
+        "seasons": "08", 
+        "started_broadcasting": "1984-09-20"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00195", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2011-06-26", 
+        "genre": "Drama", 
+        "name": "Law &amp; Order: Criminal Intent", 
+        "seasons": "10", 
+        "started_broadcasting": "2001-09-30"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00195", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1986-03-19", 
+        "genre": "Anime", 
+        "name": "Urusei Yatsura", 
+        "seasons": "", 
+        "started_broadcasting": "1981-10-14"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00195", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1970-01-011970", 
+        "genre": "Soap opera", 
+        "name": "Strange Paradise", 
+        "seasons": "", 
+        "started_broadcasting": "1969-01-011969"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00194", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1995-05-07", 
+        "genre": "Drama", 
+        "name": "Matlock", 
+        "seasons": "09", 
+        "started_broadcasting": "1986-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00194", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1975-08-27", 
+        "genre": "Drama", 
+        "name": "Mannix", 
+        "seasons": "10", 
+        "started_broadcasting": "1967-09-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00194", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-05-18", 
+        "genre": "Sitcom", 
+        "name": "Will and Grace", 
+        "seasons": "08", 
+        "started_broadcasting": "1998-09-21"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00193", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-05-31", 
+        "genre": "Sitcom", 
+        "name": "Night Court", 
+        "seasons": "09", 
+        "started_broadcasting": "1984-01-04"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00193", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1966-12-31", 
+        "genre": "Anime", 
+        "name": "Astro Boy", 
+        "seasons": "", 
+        "started_broadcasting": "1963-01-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00193", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2002-05-18", 
+        "genre": "Sports EntertainmentProfessional Wrestling", 
+        "name": "WWF Jakked", 
+        "seasons": "", 
+        "started_broadcasting": "1998-09-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00193", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2002-05-19", 
+        "genre": "Sports EntertainmentProfessional Wrestling", 
+        "name": "WWF Metal", 
+        "seasons": "", 
+        "started_broadcasting": "1998-09-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00192", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "DramaThrillerActionSerial", 
+        "name": "24", 
+        "seasons": "08", 
+        "started_broadcasting": "2001-11-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00192", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1995-05-23", 
+        "genre": "Sitcom", 
+        "name": "Full House", 
+        "seasons": "08", 
+        "started_broadcasting": "1987-09-22"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00190", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2010-12-23", 
+        "genre": "Soap opera", 
+        "name": "Majka", 
+        "seasons": "02", 
+        "started_broadcasting": "2010-01-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00189", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1986-03-07", 
+        "genre": "Sitcom", 
+        "name": "Diff'rent Strokes", 
+        "seasons": "08", 
+        "started_broadcasting": "1978-11-03"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00188", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2008-01-012008", 
+        "genre": "Reality Game Show", 
+        "name": "Canadian Idol", 
+        "seasons": "06", 
+        "started_broadcasting": "2003-06-01"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00188", 
+        "episode_minutes": "40", 
+        "finished_broadcasting": "2001-01-012001", 
+        "genre": "Soap opera", 
+        "name": "Adam i Ewa", 
+        "seasons": "01", 
+        "started_broadcasting": "2000-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00187", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2012-04-04", 
+        "genre": "Drama", 
+        "name": "One Tree Hill", 
+        "seasons": "9", 
+        "started_broadcasting": "2003-09-23"
+    }, 
+    {
+        "country": "United StatesCanada", 
+        "episode_count": "00185", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "Children's television series", 
+        "name": "Arthur", 
+        "seasons": "15", 
+        "started_broadcasting": "1996-09-02"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00185", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2002-05-10", 
+        "genre": "Telenovela", 
+        "name": "Amigas y rivales", 
+        "seasons": "", 
+        "started_broadcasting": "2001-07-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00184", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1990-05-21", 
+        "genre": "Sitcom", 
+        "name": "Newhart", 
+        "seasons": "08", 
+        "started_broadcasting": "1982-10-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00182", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2009-05-12", 
+        "genre": "Sitcom", 
+        "name": "According to Jim", 
+        "seasons": "08", 
+        "started_broadcasting": "2001-10-03"
+    }, 
+    {
+        "country": "Canada", 
+        "episode_count": "00182", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-06-22", 
+        "genre": "Documentary", 
+        "name": "Life and Times", 
+        "seasons": "", 
+        "started_broadcasting": "1996-10-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00181", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1998-05-14", 
+        "genre": "Sitcom", 
+        "name": "Seinfeld", 
+        "seasons": "09", 
+        "started_broadcasting": "1989-07-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00181", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2000-11-04", 
+        "genre": "Comedy", 
+        "name": "All That- First run", 
+        "seasons": "10", 
+        "started_broadcasting": "1994-04-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00181", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2005-10-22", 
+        "genre": "Comedy", 
+        "name": "All That- Second run", 
+        "seasons": "10", 
+        "started_broadcasting": "2002-01-19"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00181", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2010-03-17", 
+        "genre": "ComedyDrama", 
+        "name": "Scrubs", 
+        "seasons": "9", 
+        "started_broadcasting": "2001-10-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00180", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1957-05-06", 
+        "genre": "Sitcom", 
+        "name": "I Love Lucy", 
+        "seasons": "06", 
+        "started_broadcasting": "1951-10-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00180", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1989-05-14", 
+        "genre": "Sitcom", 
+        "name": "Family Ties", 
+        "seasons": "7", 
+        "started_broadcasting": "1982-09-22"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00180", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-05-09", 
+        "genre": "Sitcom", 
+        "name": "The Golden Girls", 
+        "seasons": "07", 
+        "started_broadcasting": "1985-09-14"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00180", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2008-03-28", 
+        "genre": "Anime", 
+        "name": "Yu-Gi-Oh Duel Monsters GX", 
+        "seasons": "04", 
+        "started_broadcasting": "2004-10-06"
+    }, 
+    {
+        "country": "Bosnia and Herzegovina", 
+        "episode_count": "00180", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2008-01-012008", 
+        "genre": "SitcomComedyVariety show", 
+        "name": "Viza za budu\u0107nost", 
+        "seasons": "", 
+        "started_broadcasting": "2000-01-012000"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00179", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2006-05-21", 
+        "genre": "Drama", 
+        "name": "Charmed", 
+        "seasons": "08", 
+        "started_broadcasting": "1998-10-07"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00178", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2005-03-30", 
+        "genre": "Anime", 
+        "name": "The Prince of Tennis", 
+        "seasons": "07", 
+        "started_broadcasting": "2001-10-10"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00178", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1994-05-23", 
+        "genre": "Science Fiction", 
+        "name": "Star Trek: The Next Generation", 
+        "seasons": "07", 
+        "started_broadcasting": "1987-09-28"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00178", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2001-05-11", 
+        "genre": "Drama", 
+        "name": "Diagnosis: Murder", 
+        "seasons": "08", 
+        "started_broadcasting": "1993-10-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00178", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1983-05-10", 
+        "genre": "Sitcom", 
+        "name": "Laverne &amp; Shirley", 
+        "seasons": "08", 
+        "started_broadcasting": "1976-01-27"
+    }, 
+    {
+        "country": "Venezuela", 
+        "episode_count": "00178", 
+        "episode_minutes": "46", 
+        "finished_broadcasting": "2003-01-012003", 
+        "genre": "Soap opera", 
+        "name": "Mi Gorda Bella", 
+        "seasons": "", 
+        "started_broadcasting": "2002-11-20"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00176", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2008-06-06", 
+        "genre": "Telenovela", 
+        "name": "Al Diablo con los Guapos", 
+        "seasons": "", 
+        "started_broadcasting": "2007-10-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00176", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1999-06-02", 
+        "genre": "Science Fiction", 
+        "name": "Star Trek: Deep Space Nine", 
+        "seasons": "07", 
+        "started_broadcasting": "1993-01-03"
+    }, 
+    {
+        "country": "Philippines", 
+        "episode_count": "00175", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1998-01-011998", 
+        "genre": "DramaRomance", 
+        "name": "Mula Sa Puso", 
+        "seasons": "", 
+        "started_broadcasting": "1997-01-011997"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00174", 
+        "episode_minutes": "5, 10, 15", 
+        "finished_broadcasting": "1986-01-011986", 
+        "genre": "Children's animated series", 
+        "name": "Bolek i Lolek", 
+        "seasons": "10", 
+        "started_broadcasting": "1963-01-011963"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00174", 
+        "episode_minutes": "44", 
+        "finished_broadcasting": "1998-01-011998", 
+        "genre": "Telenovela", 
+        "name": "So\u00f1adoras", 
+        "seasons": "", 
+        "started_broadcasting": "1998-01-011998"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00173", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2007-03-26", 
+        "genre": "Documentary", 
+        "name": "Kochaj mnie", 
+        "seasons": "05", 
+        "started_broadcasting": "2002-03-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00173", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1959-09-15", 
+        "genre": "Sitcom", 
+        "name": "The Bob Cummings Show", 
+        "seasons": "05", 
+        "started_broadcasting": "1955-01-07"
+    }, 
+    {
+        "country": "Israel", 
+        "episode_count": "00173", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "", 
+        "genre": "Sitcom", 
+        "name": "HaPijamot", 
+        "seasons": "07", 
+        "started_broadcasting": "2003-07-01"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00172", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2005-09-27", 
+        "genre": "Anime", 
+        "name": "Mirmo Zibang!", 
+        "seasons": "", 
+        "started_broadcasting": "2002-04-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1994-05-29", 
+        "genre": "Animated Children's show", 
+        "name": "Rugrats- First run", 
+        "seasons": "12", 
+        "started_broadcasting": "1991-08-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2004-06-08", 
+        "genre": "Animated Children's show", 
+        "name": "Rugrats- Second run", 
+        "seasons": "12", 
+        "started_broadcasting": "1996-12-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2001-05-23", 
+        "genre": "Science Fiction", 
+        "name": "Star Trek: Voyager", 
+        "seasons": "07", 
+        "started_broadcasting": "1995-01-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1984-09-18", 
+        "genre": "Sitcom", 
+        "name": "Three's Company", 
+        "seasons": "08", 
+        "started_broadcasting": "1977-03-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2008-02-11", 
+        "genre": "SitcomComedyDrama", 
+        "name": "Girlfriends", 
+        "seasons": "08", 
+        "started_broadcasting": "2000-09-11"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1997-05-21", 
+        "genre": "Sitcom", 
+        "name": "Wings", 
+        "seasons": "08", 
+        "started_broadcasting": "1990-04-19"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00172", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1994-05-19", 
+        "genre": "Drama", 
+        "name": "L.A. Law", 
+        "seasons": "08", 
+        "started_broadcasting": "1986-09-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00171", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1973-03-30", 
+        "genre": "Drama", 
+        "name": "Mission: Impossible", 
+        "seasons": "07", 
+        "started_broadcasting": "1966-09-17"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00170", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2007-09-16", 
+        "genre": "Soap Opera", 
+        "name": "Destilando Amor", 
+        "seasons": "", 
+        "started_broadcasting": "2007-01-22"
+    }, 
+    {
+        "country": "Sweden", 
+        "episode_count": "00170", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2000-01-012000", 
+        "genre": "Soap opera", 
+        "name": "Venner og fiender", 
+        "seasons": "", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00170", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1971-04-27", 
+        "genre": "Sitcom", 
+        "name": "Green Acres", 
+        "seasons": "06", 
+        "started_broadcasting": "1965-09-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00170", 
+        "episode_minutes": "20 Minutes 17 Seconds", 
+        "finished_broadcasting": "2008-06-13", 
+        "genre": "Game show", 
+        "name": "Temptation", 
+        "seasons": "01", 
+        "started_broadcasting": "2007-09-10"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00170", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1995-06-17", 
+        "genre": "Sitcom", 
+        "name": "Empty Nest", 
+        "seasons": "07", 
+        "started_broadcasting": "1988-10-08"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00170", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1982-05-20", 
+        "genre": "Sitcom", 
+        "name": "Barney Miller", 
+        "seasons": "08", 
+        "started_broadcasting": "1975-01-23"
+    }, 
+    {
+        "country": "Colombia", 
+        "episode_count": "00169", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2001-01-012001", 
+        "genre": "Soap opera", 
+        "name": "Betty la fea", 
+        "seasons": "03", 
+        "started_broadcasting": "1999-10-25"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00169", 
+        "episode_minutes": "45", 
+        "finished_broadcasting": "2009-06-14", 
+        "genre": "Soap Opera", 
+        "name": "Ma\u00f1ana es para siempre", 
+        "seasons": "", 
+        "started_broadcasting": "2008-10-20"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00168", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1971-07-04", 
+        "genre": "Sitcom", 
+        "name": "Hogan's Heroes", 
+        "seasons": "06", 
+        "started_broadcasting": "1965-09-17"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00168", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2004-05-16", 
+        "genre": "Legal drama", 
+        "name": "The Practice", 
+        "seasons": "08", 
+        "started_broadcasting": "1997-03-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00168", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1977-03-19", 
+        "genre": "Sitcom", 
+        "name": "The Mary Tyler Moore Show", 
+        "seasons": "07", 
+        "started_broadcasting": "1970-09-19"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00167", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2004-09-13", 
+        "genre": "Anime", 
+        "name": "InuYasha", 
+        "seasons": "06", 
+        "started_broadcasting": "2000-10-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00166", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1966-04-01", 
+        "genre": "Animated Sitcom", 
+        "name": "The Flintstones", 
+        "seasons": "06", 
+        "started_broadcasting": "1960-09-30"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00166", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1992-04-25", 
+        "genre": "Sitcom", 
+        "name": "Growing Pains", 
+        "seasons": "07", 
+        "started_broadcasting": "1985-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00165", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1970-09-10", 
+        "genre": "Adventure", 
+        "name": "Daniel Boone", 
+        "seasons": "06", 
+        "started_broadcasting": "1964-09-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00165", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "", 
+        "genre": "Animated Sitcom", 
+        "name": "Family Guy", 
+        "seasons": "09", 
+        "started_broadcasting": "1999-01-31"
+    }, 
+    {
+        "country": "Israel", 
+        "episode_count": "00165", 
+        "episode_minutes": "25, 40 45", 
+        "finished_broadcasting": "2007-02-02", 
+        "genre": "Science fictionDrama", 
+        "name": "HaShminiya", 
+        "seasons": "03", 
+        "started_broadcasting": "2005-06-05"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00165", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "", 
+        "genre": "AnimatedChildren's show", 
+        "name": "SpongeBob SquarePants", 
+        "seasons": "8", 
+        "started_broadcasting": "1999-05-01"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00164", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2008-04-24", 
+        "genre": "Drama", 
+        "name": "Khwaish", 
+        "seasons": "01", 
+        "started_broadcasting": "2007-07-16"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00164", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1999-05-24", 
+        "genre": "Sitcom", 
+        "name": "Mad About You", 
+        "seasons": "07", 
+        "started_broadcasting": "1992-09-23"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00163", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1993-05-24", 
+        "genre": "Sitcom", 
+        "name": "Designing Women", 
+        "seasons": "07", 
+        "started_broadcasting": "1986-09-29"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00163", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2003-04-24", 
+        "genre": "Sitcom", 
+        "name": "Sabrina, the Teenage Witch", 
+        "seasons": "07", 
+        "started_broadcasting": "1996-09-27"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00162", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "", 
+        "genre": "Police procedural", 
+        "name": "Criminal Minds", 
+        "seasons": "07", 
+        "started_broadcasting": "2005-09-22"
+    }, 
+    {
+        "country": "Colombia", 
+        "episode_count": "00162", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1996-01-011996", 
+        "genre": "Telenovela", 
+        "name": "La Viuda de Blanco- Original series", 
+        "seasons": "", 
+        "started_broadcasting": "1996-01-011996"
+    }, 
+    {
+        "country": "Colombia", 
+        "episode_count": "00162", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "2007-03-02", 
+        "genre": "Telenovela", 
+        "name": "La Viuda de Blanco- Remake", 
+        "seasons": "", 
+        "started_broadcasting": "2006-07-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00162", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1988-02-24", 
+        "genre": "Drama", 
+        "name": "Magnum, P.I.", 
+        "seasons": "08", 
+        "started_broadcasting": "1980-12-11"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00161", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "1999-01-011999", 
+        "genre": "Soap opera", 
+        "name": "Aashirwad", 
+        "seasons": "", 
+        "started_broadcasting": "1998-01-011998"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00161", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1992-09-25", 
+        "genre": "Anime", 
+        "name": "Ranma \u00bd", 
+        "seasons": "07", 
+        "started_broadcasting": "1989-04-15"
+    }, 
+    {
+        "country": "Mexico", 
+        "episode_count": "00160", 
+        "episode_minutes": " ", 
+        "finished_broadcasting": "1990-01-011990", 
+        "genre": "Telenovela", 
+        "name": "Mi peque\u00f1a Soledad", 
+        "seasons": "", 
+        "started_broadcasting": "1990-01-011990"
+    }, 
+    {
+        "country": "India", 
+        "episode_count": "00160", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "2008-08-28", 
+        "genre": "Soap opera", 
+        "name": "Kuchh Is Tara", 
+        "seasons": "01", 
+        "started_broadcasting": "2007-11-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00160", 
+        "episode_minutes": "23", 
+        "finished_broadcasting": "1998-06-26", 
+        "genre": "Family sitcom", 
+        "name": "Step by Step", 
+        "seasons": "07", 
+        "started_broadcasting": "1991-09-20"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00159", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1993-07-09", 
+        "genre": "Soap opera", 
+        "name": "Eldorado", 
+        "seasons": "01", 
+        "started_broadcasting": "1992-07-06"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00158", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1966-06-01", 
+        "genre": "Sitcom", 
+        "name": "The Dick Van Dyke Show", 
+        "seasons": "05", 
+        "started_broadcasting": "1961-10-03"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00158", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1986-04-19", 
+        "genre": "Sitcom", 
+        "name": "Benson", 
+        "seasons": "07", 
+        "started_broadcasting": "1979-09-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00158", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1984-05-19", 
+        "genre": "Drama", 
+        "name": "Fantasy Island", 
+        "seasons": "07", 
+        "started_broadcasting": "1978-01-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00157", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2000-05-05", 
+        "genre": "Sitcom", 
+        "name": "Boy Meets World", 
+        "seasons": "07", 
+        "started_broadcasting": "1993-09-10"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00157", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1965-09-25", 
+        "genre": "Sitcom", 
+        "name": "Bachelor Father", 
+        "seasons": "05", 
+        "started_broadcasting": "1957-09-15"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00157", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1959-05-07", 
+        "genre": "Sitcom", 
+        "name": "December Bride", 
+        "seasons": "05", 
+        "started_broadcasting": "1954-10-04"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00156", 
+        "episode_minutes": "22", 
+        "finished_broadcasting": "1999-12-12", 
+        "genre": "Game show", 
+        "name": "Figure It Out", 
+        "seasons": "04", 
+        "started_broadcasting": "1997-07-07"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00156", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1989-01-21", 
+        "genre": "Drama", 
+        "name": "Simon and Simon", 
+        "seasons": "08", 
+        "started_broadcasting": "1981-11-24"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00156", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1990-04-06", 
+        "genre": "Game show", 
+        "name": "The Pyramid Game- Original run", 
+        "seasons": "06", 
+        "started_broadcasting": "1981-09-05"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00156", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-06-15", 
+        "genre": "Game show", 
+        "name": "The Pyramid Game- Revival run", 
+        "seasons": "06", 
+        "started_broadcasting": "2007-05-07"
+    }, 
+    {
+        "country": "Australia", 
+        "episode_count": "00156", 
+        "episode_minutes": "15", 
+        "finished_broadcasting": "1959-01-011959", 
+        "genre": "Soap opera", 
+        "name": "Autumn Affair", 
+        "seasons": "01", 
+        "started_broadcasting": "1958-10-24"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00156", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1968-03-11", 
+        "genre": "Sitcom", 
+        "name": "The Lucy Show", 
+        "seasons": "06", 
+        "started_broadcasting": "1962-10-01"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00156", 
+        "episode_minutes": "30 or 60", 
+        "finished_broadcasting": "1964-06-19", 
+        "genre": "Science Fiction", 
+        "name": "The Twilight Zone- Original series", 
+        "seasons": "05", 
+        "started_broadcasting": "1959-10-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00156", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "2006-05-14", 
+        "genre": "Drama", 
+        "name": "The West Wing", 
+        "seasons": "07", 
+        "started_broadcasting": "1999-09-22"
+    }, 
+    {
+        "country": "PhilippinesMexico", 
+        "episode_count": "00155", 
+        "episode_minutes": "30-45", 
+        "finished_broadcasting": "2008-03-14", 
+        "genre": "DramaRomance", 
+        "name": "MariMar", 
+        "seasons": "", 
+        "started_broadcasting": "2007-08-13"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00155", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1980-10-06", 
+        "genre": "Anime", 
+        "name": "Lupin III Part II", 
+        "seasons": "", 
+        "started_broadcasting": "1977-10-03"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00154", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-06-09", 
+        "genre": "Comedy panel game", 
+        "name": "They Think It's All Over", 
+        "seasons": "19", 
+        "started_broadcasting": "1995-09-14"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00154", 
+        "episode_minutes": "26", 
+        "finished_broadcasting": "1966-09-05", 
+        "genre": "Sitcom", 
+        "name": "Hazel", 
+        "seasons": "05", 
+        "started_broadcasting": "1961-09-28"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00153", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1966-03-21", 
+        "genre": "Drama", 
+        "name": "Ben Casey", 
+        "seasons": "06", 
+        "started_broadcasting": "1961-10-02"
+    }, 
+    {
+        "country": "Singapore", 
+        "episode_count": "00153", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2007-02-11", 
+        "genre": "Sitcom", 
+        "name": "Phua Chu Kang", 
+        "seasons": "", 
+        "started_broadcasting": "1997-09-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00153", 
+        "episode_minutes": "41", 
+        "finished_broadcasting": "2007-05-15", 
+        "genre": "ComedyDrama", 
+        "name": "Gilmore Girls", 
+        "seasons": "07", 
+        "started_broadcasting": "2000-10-05"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00153", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "1989-04-12", 
+        "genre": "Anime", 
+        "name": "Dragon Ball", 
+        "seasons": "", 
+        "started_broadcasting": "1986-02-26"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00151", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2006-05-14", 
+        "genre": "Sitcom", 
+        "name": "Malcolm in the Middle", 
+        "seasons": "07", 
+        "started_broadcasting": "2000-01-09"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00151", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2008-02-23", 
+        "genre": "Sitcom", 
+        "name": "S\u0105siedzi", 
+        "seasons": "06", 
+        "started_broadcasting": "2003-04-12"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00151", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1986-09-04", 
+        "genre": "Drama", 
+        "name": "Trapper John, M.D.", 
+        "seasons": "07", 
+        "started_broadcasting": "1979-09-23"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "episode_count": "00151", 
+        "episode_minutes": "30, 45, 60", 
+        "finished_broadcasting": "2004-04-24", 
+        "genre": "Game show", 
+        "name": "Robot Wars", 
+        "seasons": "12", 
+        "started_broadcasting": "1998-01-16"
+    }, 
+    {
+        "country": "Poland", 
+        "episode_count": "00150", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "2000-01-012000", 
+        "genre": "Soap opera", 
+        "name": "Czu\u0142o\u015b\u0107 i k\u0142amstwa", 
+        "seasons": "01", 
+        "started_broadcasting": "1999-11-02"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00150", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1969-05-02", 
+        "genre": "Sitcom", 
+        "name": "Gomer Pyle, USMC", 
+        "seasons": "05", 
+        "started_broadcasting": "1964-09-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00150", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1989-03-24", 
+        "genre": "Sitcom", 
+        "name": "Webster", 
+        "seasons": "06", 
+        "started_broadcasting": "1983-09-13"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00150", 
+        "episode_minutes": "30", 
+        "finished_broadcasting": "1993-08-06", 
+        "genre": "Sitcom", 
+        "name": "Perfect Strangers", 
+        "seasons": "08", 
+        "started_broadcasting": "1986-03-25"
+    }, 
+    {
+        "country": "United States", 
+        "episode_count": "00150", 
+        "episode_minutes": "60", 
+        "finished_broadcasting": "1998-05-16", 
+        "genre": "Drama", 
+        "name": "Dr. Quinn, Medicine Woman", 
+        "seasons": "06", 
+        "started_broadcasting": "1993-01-01"
+    }, 
+    {
+        "country": "Japan", 
+        "episode_count": "00150", 
+        "episode_minutes": "25", 
+        "finished_broadcasting": "2006-03-26", 
+        "genre": "Anime", 
+        "name": "Zatch Bell!", 
+        "seasons": "", 
+        "started_broadcasting": "2003-04-06"
+    }
+]
