@@ -19,21 +19,20 @@ JSON Data format:
 
 var format = d3.time.format("%Y/%m");
 
-var w = 1500,
-    h = 1000,
+var width = $(window).width(),
+    height = $(window).height(),
     color = d3.scale.category20c();
 
 var treemap = d3.layout.treemap()
-    .size([w + 1, h + 1])
-    .children(function(d) { console.log(d);return isNaN(d.value) ? d3.entries(d.value) : null; })
-    .value(function(d) {  return d.value; })
-    .sticky(true);
+    .size([width, height])
+    .value(function(d) { return d.episode_count; });
 
-var svg = d3.select("#shell").append("svg:svg")
-    .style("width", w)
-    .style("height", h)
-  .append("svg:g")
-    .attr("transform", "translate(-.5,-.5)");	
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(-.5,-.5)");
+
 	
 	
 d3.json('tv-data.json', function(json) {
@@ -51,58 +50,64 @@ d3.json('tv-data.json', function(json) {
 	      .sortKeys(d3.ascending)
 	      .map(json);
 	
-	var data = {};
+	var data = {
+		'name' : 'tv shows',
+		'children': []
+	};
 
-	//go down to show leaf and remake array to object
+
+	//go down to show leaf and remake object to fit treemap data needs
 	$.each(tvseries, function(i, country) {
 		
-		var old_country = country;
-		country = {};
 		var countryName = '';
+		var newCountry = {
+			'name' : '',
+			'children': []
+		};
 		
-		$.each(old_country, function(j, genre) {
-			var old_genre = genre;	
-			genre = {};
-			//make genre an empty object then fill with program_name: episode_count pairs
-			$.each(old_genre, function(k, show){
-				genre[show.program_name] = show.episode_count;
-				genre['name'] = show.genre;
-				countryName = show.country_of_origin;
-			});
-			country[genre['name']] = genre;
-			delete genre['name'];
+		$.each(country, function(j, genre) {
 			
-		});	
+			var genreName = '';
+			var newGenre = {
+				'name' : '',
+				'children': []
+			};
+			
+			$.each(genre, function(k, show) {
+				genreName = show.genre;
+				countryName = show.country_of_origin
+				show.name = show.program_name;
+				newGenre.children.push(show);
+			});
+			newGenre.name = genreName;
+			newCountry.children.push(newGenre);				
+		});		
 		
-		data[countryName] = country;
-		
-		
+		newCountry.name = countryName;
+		data.children.push(newCountry);		
 	});
 	
-	
-	
+		
 	console.log(data);
-		
 	
 	
-	var cell = svg.data(d3.entries(data)).selectAll("g")
-		      .data(treemap)
-		    .enter().append("svg:g")
-		      .attr("class", "cell")
-		      .attr("transform", function(d) {  return "translate(" + d.x + "," + d.y + ")"; });
+	var cell = svg.data([data]).selectAll("g")
+      .data(treemap)
+    .enter().append("g")
+      .attr("class", "cell")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
-		cell.append("svg:rect")
-		      .attr("width", function(d) { return d.dx; })
-		      .attr("height", function(d) { return d.dy; })
-		      .style("fill", function(d) { return d.children ? color(d.data.key) : null; });
-		
-		
-			cell.append("svg:text")
-			      .attr("x", function(d) { return d.dx / 2; })
-			      .attr("y", function(d) { return d.dy / 2; })
-			      .attr("dy", ".35em")
-			      .attr("text-anchor", "middle")
-			      .text(function(d) { return d.children ? null : d.data.key; });
+  	cell.append("rect")
+	      .attr("width", function(d) { return d.dx; })
+	      .attr("height", function(d) { return d.dy; })
+	      .style("fill", function(d) { return d.children ? color(d.data.name) : null; });
+
+	  cell.append("text")
+	      .attr("x", function(d) { return d.dx / 2; })
+	      .attr("y", function(d) { return d.dy / 2; })
+	      .attr("dy", ".35em")
+	      .attr("text-anchor", "middle")
+	      .text(function(d) { return d.children ? null : d.data.name; });
 	
 });
 
