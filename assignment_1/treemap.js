@@ -20,7 +20,7 @@ JSON Data format:
 var format = d3.time.format("%Y/%m");
 
 var width = $(window).width(),
-    height = $(window).height(),
+    height = $(window).height() - 100,
     color = d3.scale.category20c();
 
 var treemap = d3.layout.treemap()
@@ -38,11 +38,15 @@ var svg = d3.select("body").append("svg")
 d3.json('tv-data.json', function(json) {
 	
 	
- 	/*json.forEach(function(d) {
+ 	json.forEach(function(d) {
     	d.started_broadcasting = format.parse(d.started_broadcasting);
 		if (d.finished_broadcasting !== '')
     		d.finished_broadcasting = format.parse(d.finished_broadcasting);
-  	});*/
+		else
+			d.finished_broadcasting = new Date();
+
+	    d.duration = new Date(d.finished_broadcasting - d.started_broadcasting).getTime();
+  	});
 	
 	var tvseries = d3.nest()
 	      .key(function(d) { return d.country_of_origin.toLowerCase(); })
@@ -97,17 +101,49 @@ d3.json('tv-data.json', function(json) {
       .attr("class", "cell")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
-  	cell.append("rect")
+	cell.append("rect")
 	      .attr("width", function(d) { return d.dx; })
 	      .attr("height", function(d) { return d.dy; })
 	      .style("fill", function(d) { return d.children ? color(d.data.name) : null; });
 
-	  cell.append("text")
+	cell.append("text")
 	      .attr("x", function(d) { return d.dx / 2; })
 	      .attr("y", function(d) { return d.dy / 2; })
 	      .attr("dy", ".35em")
 	      .attr("text-anchor", "middle")
 	      .text(function(d) { return d.children ? null : d.data.name; });
+
+	d3.select("#episodes").on("click", function() {
+	   
+	    cell
+	        .data(treemap.value(function(d) { return d.episode_length; }))
+			.transition()
+			  .duration(1500)
+		    .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+			.select('rect')
+			      .attr("width", function(d) { return d.dx; })
+			      .attr("height", function(d) { return d.dy; });
+
+	    d3.select("#episodes").classed("active", true);
+	    d3.select("#duration").classed("active", false);
+	  });
+
+
+	d3.select("#duration").on("click", function() {
+
+	    cell
+	        .data(treemap.value(function(d) { return d.duration; }))
+			.transition()
+			  .duration(1500)
+		    .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+			.select('rect')
+			      .attr("width", function(d) { return d.dx; })
+			      .attr("height", function(d) { return d.dy; });
+				
+	    d3.select("#episodes").classed("active", false);
+	    d3.select("#duration").classed("active", true);
+	  });
+    
 	
 });
 
