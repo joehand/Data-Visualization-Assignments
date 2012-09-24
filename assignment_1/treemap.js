@@ -48,10 +48,9 @@ d3.json('tv-data.json', function(json) {
 	    d.duration = new Date(d.finished_broadcasting - d.started_broadcasting).getTime();
   	});
 	
-	
 	var data = {
 		name: 'tv shows',
-		children: _.nest(json, [ 'country_of_origin', 'genre']).children
+		children: _.nest(json, ['country_of_origin', 'genre']).children //using underscore.nest (https://github.com/iros/underscore.nest)
 	};
 	
 	console.log(data);
@@ -66,16 +65,24 @@ d3.json('tv-data.json', function(json) {
 	cell.append("rect")
 	      .attr("width", function(d) { return d.dx; })
 	      .attr("height", function(d) { return d.dy; })
-	      .style("fill", function(d) { return d.children ? color(d.data.name) : null; });
+	      .style("fill", function(d) { return d.children ? color(d.data.name) : null; })
+		  .attr("title", function(d) { return d.children ? d.data.name : d.data.program_name; })
+		  .on('mouseover', showLabel)
 
-	cell.append("text")
+	var text = cell.append("text")
 	      .attr("x", function(d) { return d.dx / 2; })
 	      .attr("y", function(d) { return d.dy / 2; })
 	      .attr("dy", ".35em")
 	      .attr("text-anchor", "middle")
+		  //is there a better way to do this?
+	      .attr("class", function(d) { if(d.data.program_name && (d.dx < d.data.program_name.length * 6 || d.dy < 13)) return 'hide-label'; })
 	      .text(function(d) { return d.children ? null : d.data.program_name; });    
 	
+	
+
 });
 
-	
+function showLabel() {
+	//do something
+}	
 	
