@@ -9,7 +9,7 @@
 	<style type="text/css">
 
 		rect {
-		  fill: none;
+		  fill: transparent;
 		  stroke: #fff;
 		}
 
@@ -29,13 +29,24 @@
 		.hide-label {
 			display:none;
 		}
+		
+		#info {
+			height:75px;
+			line-height:1.25em;
+		}
+		
+		.red rect{
+			fill:red;
+			z-index:10;
+		}
 
     </style>
 </head>
 
 <body>
 
- 
+ 	<div id="info">
+    </div>
     <div id="chart">
 	<!--
      <button id="episodes" class="first active">
@@ -43,6 +54,11 @@
       </button><button id="duration" class="last">
         Duration
       </button>-->
+	     <button id="country" class="first active">
+	        Country > Genre
+	      </button><button id="genre" class="last">
+	        Genre > Country
+	      </button>
     </div>
 
   <!-- Load JS Libraries -->
