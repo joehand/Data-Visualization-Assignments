@@ -5,7 +5,7 @@ get_tvData.py
 
 
 @Author: Joe Hand
-@Description: 
+@Description: Convert JSON to CSV for making a treemap in R.
 """
 
 
