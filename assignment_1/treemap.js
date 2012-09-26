@@ -21,9 +21,9 @@ JSON Data format:
 var module = (function () {
 	
 	var my = {};
-	
-	var width = $(window).width() - 250,
-	    height = $(window).height() - 100,
+
+	var width = window.innerWidth  - 250,
+	    height = window.innerHeight - 100,
 	    color = d3.scale.category20c();	
 
 	var tooltip = d3.select("body")
@@ -35,8 +35,7 @@ var module = (function () {
 
 	
 	my.init = function (nesting) {
-		
-		
+
 		var treemap = d3.layout.treemap()
 		    .size([width, height])
 			.sticky(true)
@@ -46,6 +45,7 @@ var module = (function () {
 		var svg = d3.select("#chart").append("svg")
 		    	.attr("width", width)
 		    	.attr("height", height)
+				.on("mouseout", function(){ return tooltip.style("visibility", "hidden");})
 		  	.append("g")
 		    	.attr("transform", "translate(-.5,-.5)")
 				.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");});
