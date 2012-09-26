@@ -24,11 +24,19 @@ var module = (function () {
 	
 	var width = $(window).width() - 250,
 	    height = $(window).height() - 100,
-	    color = d3.scale.category20c();
+	    color = d3.scale.category20c();	
+
+	var tooltip = d3.select("body")
+		.append("div")
+		.attr('class', 'tooltip')
+		.style("position", "absolute")
+		.style("z-index", "5")
+		.style("visibility", "hidden");
+
 	
 	my.init = function (nesting) {
 		
-
+		
 		var treemap = d3.layout.treemap()
 		    .size([width, height])
 			.sticky(true)
@@ -39,10 +47,17 @@ var module = (function () {
 		    	.attr("width", width)
 		    	.attr("height", height)
 		  	.append("g")
-		    	.attr("transform", "translate(-.5,-.5)");
+		    	.attr("transform", "translate(-.5,-.5)")
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");});
 
 
 		d3.json('tv-data.json', function(json) {
+			
+			//clean data for capitalization differences
+			_.each(json, function(data) {
+				data.genre = data.genre.toLowerCase();
+				data.country_of_origin = data.country_of_origin.toLowerCase();
+			})
 
 			var data = {
 				name: 'tv shows',
@@ -62,8 +77,7 @@ var module = (function () {
 							else if (!d.children)
 								return d.parent.parent.data.name;
 							})
-			  			.on('mouseover', function(d) { showLabel(d); return;})
-		      			.on('mouseout', hideLabel);
+			  			.on('mouseover', function(d) { showLabel(d); return;});
 
 			cell.append("rect")
 			      .attr("width", function(d) { return d.dx; })
@@ -81,24 +95,16 @@ var module = (function () {
 			      .text(function(d) { return d.children ? null : d.data.program_name; });    
 
 		});
+		
 
 	};
-	
+
 	
 	function showLabel(d) {
 		//do something
-		displayInfo(d);
-	}
-
-	function hideLabel() {
-		//do something
-		var box = d3.select("#info").html('');
-	}	
-
-	function displayInfo(d) {
-
-		var box = d3.select("#info"),
-			name = d.data.program_name,
+		tooltip.style("visibility", "visible");	
+			
+		var name = d.data.program_name,
 			genre = d.data.genre,
 			country = d.data.country_of_origin;
 
@@ -107,7 +113,11 @@ var module = (function () {
 			html += '<br/><b>Country: </b>' + country;
 
 	 	//update box with information
-		box.html(html);
+		tooltip.html(html);
+	}
+	
+	function hideLabel() {
+		tooltip.style("visibility", "hidden");
 	}
 
 	

@@ -9,10 +9,37 @@
 	<style type="text/css">
 			
 		#chart svg{
-			margin:0 auto;
+			margin:20px auto;
 			display:block;
 		}
-
+	
+		
+		.buttons, #title {
+			margin-left:115px;
+		}
+		
+		button { /*https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css*/
+		  background: #e3e3e3;
+		  border: 1px solid #bbb;
+		  border-radius: 3px;
+		  -webkit-box-shadow: inset 0 0 1px 1px #f6f6f6;
+		  box-shadow: inset 0 0 1px 1px #f6f6f6;
+		  color: #333;
+		  font: bold 12px/1 "helvetica neue", helvetica, arial, sans-serif;
+		  padding: 8px 0 9px;
+		  text-align: center;
+		  text-shadow: 0 1px 0 #fff;
+		  width: 150px;
+			display:inline-block;
+			margin:0 10px;
+		}
+		  button.minimal:hover {
+		    background: #d9d9d9;
+		    -webkit-box-shadow: inset 0 0 1px 1px #eaeaea;
+		    box-shadow: inset 0 0 1px 1px #eaeaea;
+		    color: #222;
+		    cursor: pointer;
+		}
 	
 		rect {
 		  fill: transparent;
@@ -32,22 +59,66 @@
 			display:none;
 		}
 		
-		#info {
-			height:75px;
-			line-height:1.25em;
+		#chart:hover {
+			cursor: default; 
 		}
 		
-		.red rect{
-			fill:red;
-			z-index:10;
+		 /*tooltip: http://osvaldas.info/elegant-css-and-jquery-tooltip-responsive-mobile-friendly*/
+		.tooltip
+		{
+		    text-align: center;
+		    color: #fff;
+		    background: #111;
+		    position: absolute;
+		    z-index: 100;
+		    padding: 15px;
+		    text-transform:capitalize;
+		    margin-top:-30px;
+			border-radius:5px;
 		}
 
+		.tooltip:after /* triangle decoration */
+	    {
+	        width: 0;
+	        height: 0;
+	        border-bottom: 10px solid transparent;
+	        border-top: 10px solid transparent;
+	        border-right: 10px solid #111;
+	        content: '';
+	        position: absolute;
+	        top: 50%;
+	        left: -10px;
+	        margin-top: -10px;
+	    }
+
+		.tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+
+        .tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+
+        .tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
     </style>
 </head>
 
 <body>
 
- 	<div id="info">
+ 	<div id="title">
+		<h1>Treemap of Longest Running TV Shows</h1>
+		<h3>Organized By Country and Genre</h3>
     </div>
     <div id="chart">
 	<!--
@@ -56,11 +127,15 @@
       </button><button id="duration" class="last">
         Duration
       </button>-->
-	     <button id="country" class="first active">
+
+			<div class="buttons">
+			Set Hierarchy: 
+	     	<button id="country" class="first active">
 	        Country > Genre
 	      </button><button id="genre" class="last">
 	        Genre > Country
 	      </button>
+			</div>
     </div>
 
   <!-- Load JS Libraries -->
