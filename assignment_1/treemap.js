@@ -17,134 +17,127 @@ JSON Data format:
 ]
 */
 
-var format = d3.time.format("%Y/%m");
 
-var width = $(window).width(),
-    height = $(window).height() - 100,
-    color = d3.scale.category20c();
+var module = (function () {
+	
+	var my = {};
 
-var treemap = d3.layout.treemap()
-    .size([width, height])
-    .value(function(d) { return d.episode_count; });
+	var width = window.innerWidth  - 250,
+	    height = window.innerHeight - 100,
+	    color = d3.scale.category20c();	
 
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height)
-  .append("g")
-    .attr("transform", "translate(-.5,-.5)");
+	var tooltip = d3.select("body")
+		.append("div")
+		.attr('class', 'tooltip')
+		.style("position", "absolute")
+		.style("z-index", "5")
+		.style("visibility", "hidden");
 
 	
-	
-d3.json('tv-data.json', function(json) {
-	
-	
- 	json.forEach(function(d) {
-    	d.started_broadcasting = format.parse(d.started_broadcasting);
-		if (d.finished_broadcasting !== '')
-    		d.finished_broadcasting = format.parse(d.finished_broadcasting);
-		else
-			d.finished_broadcasting = new Date();
+	my.init = function (nesting) {
 
-	    d.duration = new Date(d.finished_broadcasting - d.started_broadcasting).getTime();
-  	});
-	
-	var tvseries = d3.nest()
-	      .key(function(d) { return d.country_of_origin.toLowerCase(); })
-		  .key(function(d) { return d.genre.toLowerCase(); })
-	      .sortKeys(d3.ascending)
-	      .map(json);
-	
-	var data = {
-		'name' : 'tv shows',
-		'children': []
+		var treemap = d3.layout.treemap()
+		    .size([width, height])
+			.sticky(true)
+		    .value(function(d) { return d.episode_count; });
+		
+		
+		var svg = d3.select("#chart").append("svg")
+		    	.attr("width", width)
+		    	.attr("height", height)
+				.on("mouseout", function(){ return tooltip.style("visibility", "hidden");})
+		  	.append("g")
+		    	.attr("transform", "translate(-.5,-.5)")
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");});
+
+
+		d3.json('tv-data.json', function(json) {
+			
+			//clean data for capitalization differences
+			_.each(json, function(data) {
+				data.genre = data.genre.toLowerCase();
+				data.country_of_origin = data.country_of_origin.toLowerCase();
+			})
+
+			var data = {
+				name: 'tv shows',
+				root: true,
+				children: _.nest(json, nesting).children //using underscore.nest (https://github.com/iros/underscore.nest)
+			};
+
+
+			//Add the cells to the treemap
+			var cell = svg.data([data]).selectAll("g")
+		      			.data(treemap)
+		    		.enter().append("g")
+		      			.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+			  			.attr('class', function(d) { 
+							if (d.parent && d.children)
+								return d.parent.data.root ? d.data.name : d.parent.data.name;
+							else if (!d.children)
+								return d.parent.parent.data.name;
+							})
+			  			.on('mouseover', function(d) { showLabel(d); return;});
+
+			cell.append("rect")
+			      .attr("width", function(d) { return d.dx; })
+			      .attr("height", function(d) { return d.dy; })
+			      .style("fill", function(d) { return d.children ? color(d.data.name) : null; })
+				  .attr("title", function(d) { return d.children ? d.data.name : d.data.program_name; })
+
+			var text = cell.append("text")
+			      .attr("x", function(d) { return d.dx / 2; })
+			      .attr("y", function(d) { return d.dy / 2; })
+			      .attr("dy", ".35em")
+			      .attr("text-anchor", "middle")
+				  //is there a better way to do this?
+			      .attr("class", function(d) { if(d.data.program_name && (d.dx < d.data.program_name.length * 6 || d.dy < 13)) return 'hide-label'; })
+			      .text(function(d) { return d.children ? null : d.data.program_name; });    
+
+		});
+		
+
 	};
 
-
-	//go down to show leaf and remake object to fit treemap data needs
-	$.each(tvseries, function(i, country) {
-		
-		var countryName = '';
-		var newCountry = {
-			'name' : '',
-			'children': []
-		};
-		
-		$.each(country, function(j, genre) {
+	
+	function showLabel(d) {
+		//do something
+		tooltip.style("visibility", "visible");	
 			
-			var genreName = '';
-			var newGenre = {
-				'name' : '',
-				'children': []
-			};
-			
-			$.each(genre, function(k, show) {
-				genreName = show.genre;
-				countryName = show.country_of_origin
-				show.name = show.program_name;
-				newGenre.children.push(show);
-			});
-			newGenre.name = genreName;
-			newCountry.children.push(newGenre);				
-		});		
+		var name = d.data.program_name,
+			genre = d.data.genre,
+			country = d.data.country_of_origin;
+
+		var html = '<b>TV Show: </b>' + name;
+			html += '<br/><b>Genre: </b>' + genre;
+			html += '<br/><b>Country: </b>' + country;
+
+	 	//update box with information
+		tooltip.html(html);
+	}
+	
+	function hideLabel() {
+		tooltip.style("visibility", "hidden");
+	}
+
+	
+	return my;
+}());
+
 		
-		newCountry.name = countryName;
-		data.children.push(newCountry);		
-	});
 	
-		
-	console.log(data);
+module.init( ['country_of_origin', 'genre']);
+
+
+d3.select("#country").on("click", function() {
+	d3.selectAll('svg').remove();
+   	module.init( ['country_of_origin', 'genre'])
+ });
 	
-	
-	var cell = svg.data([data]).selectAll("g")
-      .data(treemap)
-    .enter().append("g")
-      .attr("class", "cell")
-      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
-	cell.append("rect")
-	      .attr("width", function(d) { return d.dx; })
-	      .attr("height", function(d) { return d.dy; })
-	      .style("fill", function(d) { return d.children ? color(d.data.name) : null; });
-
-	cell.append("text")
-	      .attr("x", function(d) { return d.dx / 2; })
-	      .attr("y", function(d) { return d.dy / 2; })
-	      .attr("dy", ".35em")
-	      .attr("text-anchor", "middle")
-	      .text(function(d) { return d.children ? null : d.data.name; });
-
-	d3.select("#episodes").on("click", function() {
-	   
-	    cell
-	        .data(treemap.value(function(d) { return d.episode_length; }))
-			.transition()
-			  .duration(1500)
-		    .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-			.select('rect')
-			      .attr("width", function(d) { return d.dx; })
-			      .attr("height", function(d) { return d.dy; });
-
-	    d3.select("#episodes").classed("active", true);
-	    d3.select("#duration").classed("active", false);
-	  });
-
-
-	d3.select("#duration").on("click", function() {
-
-	    cell
-	        .data(treemap.value(function(d) { return d.duration; }))
-			.transition()
-			  .duration(1500)
-		    .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-			.select('rect')
-			      .attr("width", function(d) { return d.dx; })
-			      .attr("height", function(d) { return d.dy; });
-				
-	    d3.select("#episodes").classed("active", false);
-	    d3.select("#duration").classed("active", true);
-	  });
-    
-	
-});
+d3.select("#genre").on("click", function() {
+	d3.selectAll('svg').remove();
+   	module.init( ['genre', 'country_of_origin'])
+ });
 
 	

@@ -23,7 +23,7 @@ get_tvData.py
 import urllib2
 import re
 import json
-from BeautifulSoup import BeautifulSoup
+from BeautifulSoup import BeautifulSoup #bs4 not working as well. maybe use lxml instead?
 
 
 
