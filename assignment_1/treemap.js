@@ -45,6 +45,7 @@ var module = (function () {
 		var svg = d3.select("#chart").append("svg")
 		    	.attr("width", width)
 		    	.attr("height", height)
+				.on("mouseover", function(){ return tooltip.style("visibility", "visible");})
 				.on("mouseout", function(){ return tooltip.style("visibility", "hidden");})
 		  	.append("g")
 		    	.attr("transform", "translate(-.5,-.5)")
@@ -77,7 +78,7 @@ var module = (function () {
 							else if (!d.children)
 								return d.parent.parent.data.name;
 							})
-			  			.on('mouseover', function(d) { showLabel(d); return;});
+			  			.on('mouseover', function(d) { updateLabel(d); return;});
 
 			cell.append("rect")
 			      .attr("width", function(d) { return d.dx; })
@@ -100,10 +101,7 @@ var module = (function () {
 	};
 
 	
-	function showLabel(d) {
-		//do something
-		tooltip.style("visibility", "visible");	
-			
+	function updateLabel(d) {
 		var name = d.data.program_name,
 			genre = d.data.genre,
 			country = d.data.country_of_origin;
@@ -116,28 +114,30 @@ var module = (function () {
 		tooltip.html(html);
 	}
 	
-	function hideLabel() {
-		tooltip.style("visibility", "hidden");
-	}
-
-	
 	return my;
 }());
 
 		
-	
+//Start everything up with default nesting.	
 module.init( ['country_of_origin', 'genre']);
 
 
+//Change nesting
 d3.select("#country").on("click", function() {
 	d3.selectAll('svg').remove();
-   	module.init( ['country_of_origin', 'genre'])
+   	module.init( ['country_of_origin', 'genre']);
+
+	d3.select("#country").classed("active", true);
+	d3.select("#genre").classed("active", false);
  });
 	
 
 d3.select("#genre").on("click", function() {
 	d3.selectAll('svg').remove();
-   	module.init( ['genre', 'country_of_origin'])
+   	module.init( ['genre', 'country_of_origin']);
+
+	d3.select("#genre").classed("active", true);
+	d3.select("#country").classed("active", false);
  });
 
 	

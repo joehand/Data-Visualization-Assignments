@@ -82,7 +82,17 @@ button /*https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/butt
   	margin:0 10px;
 }
 
-button:hover
+ button.active
+{
+    background: #61809A;
+    -webkit-box-shadow: inset 0 0 1px 1px #eaeaea;
+    		box-shadow: inset 0 0 1px 1px #eaeaea;
+    color: #fff;
+    text-shadow:0 1px 0 #222;
+    cursor: default;
+}
+
+button:hover:not(.active)
 {
     background: #d9d9d9;
     -webkit-box-shadow: inset 0 0 1px 1px #eaeaea;
