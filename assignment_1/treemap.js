@@ -22,62 +22,54 @@ var module = (function () {
 	
 	var my = {};
 	
+	var width = $(window).width() - 250,
+	    height = $(window).height() - 100,
+	    color = d3.scale.category20c();
+	
 	my.init = function (nesting) {
-		var format = d3.time.format("%Y/%m");
-
-		var width = $(window).width() - 10,
-		    height = $(window).height() - 100,
-		    color = d3.scale.category20c();
+		
 
 		var treemap = d3.layout.treemap()
 		    .size([width, height])
 			.sticky(true)
 		    .value(function(d) { return d.episode_count; });
-
+		
+		
 		var svg = d3.select("#chart").append("svg")
-		    .attr("width", width)
-		    .attr("height", height)
-		  .append("g")
-		    .attr("transform", "translate(-.5,-.5)");
+		    	.attr("width", width)
+		    	.attr("height", height)
+		  	.append("g")
+		    	.attr("transform", "translate(-.5,-.5)");
 
 
 		d3.json('tv-data.json', function(json) {
 
-			//Create a duration variable for each show
-		 	json.forEach(function(d) {
-		    	d.started_broadcasting = format.parse(d.started_broadcasting);
-				if (d.finished_broadcasting !== '')
-		    		d.finished_broadcasting = format.parse(d.finished_broadcasting);
-				else
-					d.finished_broadcasting = new Date();
-
-			    d.duration = new Date(d.finished_broadcasting - d.started_broadcasting).getTime();
-		  	});
-
 			var data = {
 				name: 'tv shows',
+				root: true,
 				children: _.nest(json, nesting).children //using underscore.nest (https://github.com/iros/underscore.nest)
 			};
 
-			console.log(data);
 
 			//Add the cells to the treemap
 			var cell = svg.data([data]).selectAll("g")
-		      .data(treemap)
-		    .enter().append("g")
-		      .attr("class", "cell")
-		      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+		      			.data(treemap)
+		    		.enter().append("g")
+		      			.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+			  			.attr('class', function(d) { 
+							if (d.parent && d.children)
+								return d.parent.data.root ? d.data.name : d.parent.data.name;
+							else if (!d.children)
+								return d.parent.parent.data.name;
+							})
+			  			.on('mouseover', function(d) { showLabel(d); return;})
+		      			.on('mouseout', hideLabel);
 
 			cell.append("rect")
 			      .attr("width", function(d) { return d.dx; })
 			      .attr("height", function(d) { return d.dy; })
 			      .style("fill", function(d) { return d.children ? color(d.data.name) : null; })
 				  .attr("title", function(d) { return d.children ? d.data.name : d.data.program_name; })
-
-			cell
-				  .attr('class', function(d) { return d.children ? escape(d.data.name) : null; })
-				  .on('mouseover', function(d) { showLabel(d); return;})
-				  .on('mouseout', hideLabel)
 
 			var text = cell.append("text")
 			      .attr("x", function(d) { return d.dx / 2; })
@@ -87,8 +79,6 @@ var module = (function () {
 				  //is there a better way to do this?
 			      .attr("class", function(d) { if(d.data.program_name && (d.dx < d.data.program_name.length * 6 || d.dy < 13)) return 'hide-label'; })
 			      .text(function(d) { return d.children ? null : d.data.program_name; });    
-
-
 
 		});
 

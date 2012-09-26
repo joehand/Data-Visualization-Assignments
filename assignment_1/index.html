@@ -7,7 +7,13 @@
   <title>Longest Running TV Shows Treemap</title>
 
 	<style type="text/css">
+			
+		#chart svg{
+			margin:0 auto;
+			display:block;
+		}
 
+	
 		rect {
 		  fill: transparent;
 		  stroke: #fff;
@@ -17,13 +23,9 @@
 		  font: 10px sans-serif;
 		}
 		
-		.cell {
-		  border: solid 1px white;
-		  font: 10px sans-serif;
-		  line-height: 12px;
-		  overflow: hidden;
-		  position: absolute;
-		  text-indent: 2px;
+		.country.active rect {
+		  stroke-width:5px;
+			  stroke: #fff;
 		}
 		
 		.hide-label {
