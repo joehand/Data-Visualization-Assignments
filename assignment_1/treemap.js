@@ -4,15 +4,15 @@
 JSON Data format:
 [
 {
-    "country_of_origin": "Japan", 
-    "episode_count": "02900", 
-    "episode_length": "45", 
+    "country_of_origin": "United States", 
+    "episode_count": "00504", 
+    "episode_length": "30", 
     "finished_broadcasting": "", 
-    "genre": "Music show", 
-    "program_name": "Nodo Jiman(\u306e\u3069\u81ea\u6162)", 
-    "seasons": "", 
-    "started_broadcasting": "1953/03"
-},
+    "genre": "Animated Sitcom", 
+    "program_name": "The Simpsons", 
+    "seasons": "22", 
+    "started_broadcasting": "1989/12"
+}
 ...
 ]
 */
@@ -103,10 +103,12 @@ var module = (function () {
 	
 	function updateLabel(d) {
 		var name = d.data.program_name,
+			episodes = d.data.episode_count,
 			genre = d.data.genre,
 			country = d.data.country_of_origin;
 
-		var html = '<b>TV Show: </b>' + name;
+		var html = '<b>TV Show: </b>' + name;	
+			html += '<br/><b>Episode Count: </b>' + episodes.replace(/\b0+/g, "");;
 			html += '<br/><b>Genre: </b>' + genre;
 			html += '<br/><b>Country: </b>' + country;
 

@@ -27,14 +27,14 @@ That's it! Check out the code for full comments. There will be a little more cle
 Here is a sample JSON entry: 
 
 	{
-        "country": "United States", 
-        "episode_count": "00486", 
-        "episode_minutes": "30", 
+        "country_of_origin": "United States", 
+        "episode_count": "00504", 
+        "episode_length": "30", 
         "finished_broadcasting": "", 
         "genre": "Animated Sitcom", 
-        "name": "The Simpsons", 
+        "program_name": "The Simpsons", 
         "seasons": "22", 
-        "started_broadcasting": "1989-12-17"
+        "started_broadcasting": "1989/12"
     }
 
 Some notes:
@@ -43,3 +43,14 @@ Some notes:
 * A show may not actually have `"seasons"`
 * `"episode_minutes"` vary for some shows
 * Some stuff is unicode for foreign languages
+
+
+## Creating the Treemap
+
+
+
+### Formatting Data
+
+Used underscore.js and the helpful nesting script.
+
+### Plotting Data
